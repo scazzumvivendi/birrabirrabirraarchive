@@ -1,20 +1,22 @@
 allBirre = null;
 
 async function loadBirraToTable() {
+  sessionStorage.removeItem("sort");
   const response = await fetch("birra.json");
   const data = await response.json();
   allBirre = data;
   addTable(data);
+  sortHeader("dataVideo", "desc");
 }
 
-const headers = [
-  "Nome birra",
-  "Prezzo",
-  "Posto",
-  "Data video",
-  "Video",
-  "Note",
-];
+const headersMap = {
+  nomeBirra: "Nome birra",
+  prezzo: "Prezzo",
+  posizione: "Posto",
+  dataVideo: "Data video",
+  linkVideo: "Video",
+  note: "Note",
+};
 
 function addTable(data) {
   const divWrapper = document.createElement("div");
@@ -28,35 +30,43 @@ function addTable(data) {
   const tbody = document.createElement("tbody");
 
   if (data.length > 0) {
-    data.sort((birra1, birra2) => {
-      if (birra1.dataVideo == birra2.dataVideo) {
-        return birra1.posizione > birra2.posizione;
-      }
-
-      return birra1.dataVideo < birra2.dataVideo ? 1 : -1;
-    });
-
-    // Create table headers
     const headerRow = document.createElement("tr");
-    headers.forEach((header) => {
+    Object.entries(headersMap).forEach(([jsonKey, header]) => {
       const th = document.createElement("th");
       th.textContent = header;
       th.scope = "col";
+      th.addEventListener("click", () => {
+        const existingSort = JSON.parse(sessionStorage.getItem("sort"));
+        let order;
+        if (existingSort?.length && existingSort[0] === jsonKey) {
+          order = existingSort[1] === "asc" ? "desc" : "asc";
+        } else {
+          order = "asc";
+        }
+        sessionStorage.setItem("sort", JSON.stringify([jsonKey, order]));
+        sortHeader(jsonKey, order);
+      });
+      if (sessionStorage.getItem("sort")) {
+        const existingSort = JSON.parse(sessionStorage.getItem("sort"));
+        if (existingSort[0] === jsonKey) {
+          th.appendChild(document.createElement("span")).textContent =
+            existingSort[1] === "asc" ? " ▲" : " ▼";
+        }
+      }
       headerRow.appendChild(th);
     });
     thead.appendChild(headerRow);
     table.appendChild(thead);
-    // Create table rows
     data.forEach((item) => {
       const row = document.createElement("tr");
-      headers.forEach((header) => {
+      Object.values(headersMap).forEach((header) => {
         row.appendChild(createHTMLElementByHeader(header, item));
       });
       tbody.appendChild(row);
     });
   }
   table.appendChild(tbody);
-  table.id = "birraTable";
+  divWrapper.id = "birraTable";
   divWrapper.appendChild(table);
   document.body.appendChild(divWrapper);
 }
@@ -70,11 +80,7 @@ function createHTMLElementByHeader(header, item) {
     td.textContent = "€ " + item.prezzo;
   } else if (header === "Nome birra") {
     td.classList.add("col-2");
-    const a = document.createElement("a");
-    a.href = item.linkUfficiale;
-    a.text = item.nomeBirra;
-    a.target = "_blank";
-    td.appendChild(a);
+    td.textContent = item.nomeBirra;
   } else if (header === "Posto") {
     td.classList.add("col-1");
     td.textContent = item.posizione;
@@ -107,4 +113,22 @@ function searchBirra() {
   );
 
   addTable(filteredBirre);
+}
+
+function sortHeader(header, order) {
+  document.getElementById("birraTable").remove();
+
+  const sortedBirre = allBirre.sort((birra1, birra2) => {
+    element1 = birra1[header];
+    element2 = birra2[header];
+
+    if (element1 == element2) {
+      return birra1.posizione > birra2.posizione;
+    }
+
+    if (order == "asc") return element1 < element2 ? -1 : 1;
+    else return element1 < element2 ? 1 : -1;
+  });
+
+  addTable(sortedBirre);
 }
