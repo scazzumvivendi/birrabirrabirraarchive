@@ -1322,5 +1322,1376 @@
     "dataVideo": "2026-02-04",
     "linkVideo": "https://youtu.be/Q_jcQ72kcVg?t=1910",
     "linkUfficiale": null
+  },
+
+  {
+    "nomeBirra": "Jangholi",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra wheat (di grano) leggermente torbida, con un profilo delicato, un retrogusto di coriandolo e una nota fresca. Molto apprezzata dai recensori e dall'ospite rispetto alla seconda.",
+    "titoloVideo": "Beviamo BIRRA UKRAINA introvabile",
+    "dataVideo": "2026-01-14",
+    "linkVideo": "https://youtu.be/sW8PgUSaK5c?t=129",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Lvivske Legacy (Spadshchyna / Спадщина)",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Birra pastorizzata del famoso marchio Lvivske. Presenta un confezionamento curato ma risulta meno apprezzata al palato, con giudizi negativi sul sapore rispetto all'altra.",
+    "titoloVideo": "Beviamo BIRRA UKRAINA introvabile",
+    "dataVideo": "2026-01-14",
+    "linkVideo": "https://youtu.be/sW8PgUSaK5c?t=334",
+    "linkUfficiale": "https://lvivske.com/"
+  },
+  {
+    "nomeBirra": "Union Pils",
+    "prezzo": 0.55,
+    "posizione": 4,
+    "note": "Prodotta in Slovenia da Laško. Birra leggera, ma presenta un paio di note non particolarmente apprezzate e risulta leggermente acquosa rispetto alle competitor.",
+    "titoloVideo": "Le BIRRE PILS buone dell'IPERTOSANO",
+    "dataVideo": "2026-01-21",
+    "linkVideo": "https://youtu.be/84QLAoodk2I?t=103",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Carlsberg Pils",
+    "prezzo": 0.6,
+    "posizione": 2,
+    "note": "Ottima bevibilità, quadrata e scorrevole. Si piazza vicinissima alla prima in classifica, perdendo solo 'di cortomuso'.",
+    "titoloVideo": "Le BIRRE PILS buone dell'IPERTOSANO",
+    "dataVideo": "2026-01-21",
+    "linkVideo": "https://youtu.be/84QLAoodk2I?t=182",
+    "linkUfficiale": "https://www.carlsberg.com/"
+  },
+  {
+    "nomeBirra": "Karpackie Export",
+    "prezzo": 0.5,
+    "posizione": 1,
+    "note": "Birra polacca (prodotta da Van Pur). Ottima pils a basso costo, si conferma vincitrice della puntata con un retrogusto molto piacevole che arriva alla fine. La migliore del lotto.",
+    "titoloVideo": "Le BIRRE PILS buone dell'IPERTOSANO",
+    "dataVideo": "2026-01-21",
+    "linkVideo": "https://youtu.be/84QLAoodk2I?t=298",
+    "linkUfficiale": "https://www.vanpur.com.pl/"
+  },
+  {
+    "nomeBirra": "Björn Beer (Birra dell'Orso)",
+    "prezzo": 0.75,
+    "posizione": 5,
+    "note": "La più cara del gruppo (75 centesimi). L'attacco è carino e interessante, ma sulla coda finale presenta un retrogusto sgradevole che ricorda il cartone e fa fatica a raggiungere la sufficienza.",
+    "titoloVideo": "Le BIRRE PILS buone dell'IPERTOSANO",
+    "dataVideo": "2026-01-21",
+    "linkVideo": "https://youtu.be/84QLAoodk2I?t=498",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birra Bionda Non Filtrata - Birrificio dell'Elba",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Una birra bionda non filtrata prodotta dal Birrificio dell'Elba (mastro birraio Valerio Tamagni). Giudicata molto gradevole, un'ottima lager beverina e molto apprezzata dai recensori.",
+    "titoloVideo": "La BIRRA TOSCANA del CINGHIALE 🐗",
+    "dataVideo": "2026-01-08",
+    "linkVideo": "https://youtu.be/gQgTn1bVM28?t=253",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birra Rossa al Miele di Spiaggia - Birrificio La Foresta",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Una birra rossa da 6,5% vol. prodotta dal Birrificio La Foresta di Prato (mastro birraio Giulio Sant'anni) con l'aggiunta di miele di spiaggia bio. Giudicata carina e gradevole dai recensori.",
+    "titoloVideo": "La BIRRA TOSCANA del CINGHIALE 🐗",
+    "dataVideo": "2026-01-08",
+    "linkVideo": "https://youtu.be/gQgTn1bVM28?t=452",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Geyser - Vapori di Birra",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Una birra Pale Ale prodotta con processo totalmente rinnovabile grazie al vapore geotermico di Enel Green Power. Giudicata molto buona, con sapore particolare che evolve e lascia un finale gradevole.",
+    "titoloVideo": "BIRRE AL VAPORE",
+    "dataVideo": "2025-12-17",
+    "linkVideo": "https://youtu.be/eNrlkEG48vo?t=188",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Locomotive - Vapori di Birra",
+    "prezzo": "—",
+    "posizione": 3,
+    "note": "Una birra Blanche prodotta con energia geotermica. Piacevole, rinfrescante, speziatina, giudicata molto buona dai recensori.",
+    "titoloVideo": "BIRRE AL VAPORE",
+    "dataVideo": "2025-12-17",
+    "linkVideo": "https://youtu.be/eNrlkEG48vo?t=351",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Sulfuria - Vapori di Birra",
+    "prezzo": "—",
+    "posizione": 5,
+    "note": "Una birra in stile Weizen prodotta con energia geotermica. Giudicata meno entusiasmante rispetto ad altri stili provati, pur rimanendo una birra dignitosa intorno al 7 come voto.",
+    "titoloVideo": "BIRRE AL VAPORE",
+    "dataVideo": "2025-12-17",
+    "linkVideo": "https://youtu.be/eNrlkEG48vo?t=539",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "White Tipa - Vapori di Birra",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Una White IPA da 6,5% vol. con malto di frumento e note spiccate di IPA. Clamorosamente buona, indicata come la preferita in assoluto dai recensori per il suo amaro sensazionale e persistente.",
+    "titoloVideo": "BIRRE AL VAPORE",
+    "dataVideo": "2025-12-17",
+    "linkVideo": "https://youtu.be/eNrlkEG48vo?t=744",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Magma - Vapori di Birra",
+    "prezzo": "—",
+    "posizione": 4,
+    "note": "Una birra American Pale Ale da 7° vol., opaca, con una coda lunga e interessante. Giudicata una buona birra, tra il terzo e il quarto posto.",
+    "titoloVideo": "BIRRE AL VAPORE",
+    "dataVideo": "2025-12-17",
+    "linkVideo": "https://youtu.be/eNrlkEG48vo?t=912",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Terra - Vapori di Birra",
+    "prezzo": "—",
+    "posizione": 6,
+    "note": "Una birra ambrata limpida da 7° vol. prodotta con miele di castagno bio. Presenta una nota amroagnola caratteristica del miele sul retrogusto ed è stata apprezzata in chiusura.",
+    "titoloVideo": "BIRRE AL VAPORE",
+    "dataVideo": "2025-12-17",
+    "linkVideo": "https://youtu.be/eNrlkEG48vo?t=1105",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Germania Pils",
+    "prezzo": "0.50",
+    "posizione": 1,
+    "note": "Una pils tedesca chiara, molto gassata, con un buon profilo e ottima bevibilità. Giudicata la migliore della puntata e inserita tra le top birre dei discount.",
+    "titoloVideo": "Beviamo le BIRRE dei FAMILA",
+    "dataVideo": "2025-12-10",
+    "linkVideo": "https://youtu.be/l78EIS6iyDQ?t=220",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Golden Brown Premium",
+    "prezzo": "1.48",
+    "posizione": 6,
+    "note": "Una strong beer austriaca da 7,9% vol. Giudicata estremamente sgassata, con un brutto finale e deludente in rapporto al prezzo più elevato.",
+    "titoloVideo": "Beviamo le BIRRE dei FAMILA",
+    "dataVideo": "2025-12-10",
+    "linkVideo": "https://youtu.be/l78EIS6iyDQ?t=387",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Pedavena Originale 1897",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Birra italiana prodotta con acqua delle Dolomiti. Onesta, con una nota amara pronunciata nel finale ma complessivamente gradevole.",
+    "titoloVideo": "Beviamo le BIRRE dei FAMILA",
+    "dataVideo": "2025-12-10",
+    "linkVideo": "https://youtu.be/l78EIS6iyDQ?t=617",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Baum Red Lager",
+    "prezzo": "0.99",
+    "posizione": 4,
+    "note": "Birra rossa da 5,9% vol., leggermente torbida. Giudicata abbastanza neutra e priva di particolari difetti ma anche piuttosto inutile.",
+    "titoloVideo": "Beviamo le BIRRE dei FAMILA",
+    "dataVideo": "2025-12-10",
+    "linkVideo": "https://youtu.be/l78EIS6iyDQ?t=707",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Baum Strong Superior",
+    "prezzo": "1.00",
+    "posizione": 5,
+    "note": "Strong beer da 7,9% vol. Giudicata un'altra birra insignificante ma non rientrante nel calderone delle strong orribili.",
+    "titoloVideo": "Beviamo le BIRRE dei FAMILA",
+    "dataVideo": "2025-12-10",
+    "linkVideo": "https://youtu.be/l78EIS6iyDQ?t=857",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Martens Belgian Strong Beer",
+    "prezzo": "1.39",
+    "posizione": 7,
+    "note": "Birra forte belga da 10° vol. Giudicata deludente con un finale sgradevole e finita dritta nel secchio.",
+    "titoloVideo": "Beviamo le BIRRE dei FAMILA",
+    "dataVideo": "2025-12-10",
+    "linkVideo": "https://youtu.be/l78EIS6iyDQ?t=1037",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Laoshan Beer",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra cinese estremamente chiara e trasparente, recensita nel video per il suo aspetto insolito e quasi identico all'acqua.",
+    "titoloVideo": "BIRRA CINESE (che sembra acqua)",
+    "dataVideo": "2025-11-26",
+    "linkVideo": "https://youtu.be/Slzbqg-IbBE?t=0",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Snow Beer",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Seconda birra cinese degustata nel video, caratterizzata da un profilo leggero, beverino e tipico delle lager industriali del paese.",
+    "titoloVideo": "BIRRA CINESE (che sembra acqua)",
+    "dataVideo": "2025-11-26",
+    "linkVideo": "https://youtu.be/Slzbqg-IbBE?t=180",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Williamsbrau Pils",
+    "prezzo": 0.49,
+    "posizione": 1,
+    "note": "Una Pils leggera e molto buona, giudicata forse persino migliore della karpackie. Ottimo rapporto qualità/prezzo, considerata la vera sorpresona e vincitrice della puntata.",
+    "titoloVideo": "Beviamo tutte le BIRRE del BENNET",
+    "dataVideo": "2025-11-05",
+    "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=132",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Volfas Engelman India Pale Ale (IPA)",
+    "prezzo": 1.89,
+    "posizione": 2,
+    "note": "Una IPA di eccellente qualità, definita una Rolls-Royce delle birre da supermercato. Molto profumata, amara, decisa e strutturata, con un'ottima spinta.",
+    "titoloVideo": "Beviamo tutte le BIRRE del BENNET",
+    "dataVideo": "2025-11-05",
+    "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=638",
+    "linkUfficiale": "https://volfasengelman.lt"
+  },
+  {
+    "nomeBirra": "Volfas Engelman Australian Pale Ale (APA)",
+    "prezzo": 1.89,
+    "posizione": 3,
+    "note": "Una Pale Ale australiana molto buona ma leggermente inferiore rispetto alla versione IPA della stessa marca, con un sapore complessivamente più sottotono.",
+    "titoloVideo": "Beviamo tutte le BIRRE del BENNET",
+    "dataVideo": "2025-11-05",
+    "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=875",
+    "linkUfficiale": "https://volfasengelman.lt"
+  },
+  {
+    "nomeBirra": "Victor Export Lager",
+    "prezzo": 0.69,
+    "posizione": 4,
+    "note": "Una birra chiara piuttosto leggera e acquosa, definita una chiara sciacquona ma comunque bevibile e senza difetti gravi, adatta per un pasto informale.",
+    "titoloVideo": "Beviamo tutte le BIRRE del BENNET",
+    "dataVideo": "2025-11-05",
+    "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=354",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Kestrel Super Premium Lager",
+    "prezzo": 1.39,
+    "posizione": 5,
+    "note": "Una lager scozzese ad alta gradazione (9°/10°). Tra le tre birre forti provate è la meno fastidiosa e si salva appena sopra la soglia di imbevibilità.",
+    "titoloVideo": "Beviamo tutte le BIRRE del BENNET",
+    "dataVideo": "2025-11-05",
+    "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=1008",
+    "linkUfficiale": "https://www.kestrelbeer.com"
+  },
+  {
+    "nomeBirra": "Goudale Saint-Omer Bière Blonde Intense 10%",
+    "prezzo": 1.09,
+    "posizione": 6,
+    "note": "Birra forte da 10° che risulta piuttosto fastidiosa al palato e sgradevole durante la degustazione.",
+    "titoloVideo": "Beviamo tutte le BIRRE del BENNET",
+    "dataVideo": "2025-11-05",
+    "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=1121",
+    "linkUfficiale": "https://www.brasserie-saint-omer.com"
+  },
+  {
+    "nomeBirra": "Palm Extra Strong Beer",
+    "prezzo": "—",
+    "posizione": 7,
+    "note": "Birra extra strong da 10° giudicata tra le peggiori della degustazione, capace di dare un forte senso di fastidio e brividi negativi.",
+    "titoloVideo": "Beviamo tutte le BIRRE del BENNET",
+    "dataVideo": "2025-11-05",
+    "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=1248",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birrificio AF Bohemian Pilsner",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Una pils divertente, super gassata, con un'amarezza giusta e senza alcun fastidio, definita una birra che si finisce volentieri.",
+    "titoloVideo": "Beviamo le birre artigianali del Birrificio AF",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/0jSA02JM6Qo?t=202",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birrificio AF Saison",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Birra di ispirazione belga, floreale e speziata, con un bouquet di sapori complesso ma estremamente facile da bere. Giudicata di livello eccellente.",
+    "titoloVideo": "Beviamo le birre artigianali del Birrificio AF",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/0jSA02JM6Qo?t=445",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birrificio AF American IPA",
+    "prezzo": "—",
+    "posizione": 3,
+    "note": "Caratterizzata da un impatto marcato e un'amarezza decisa con sfumature tropicali tipiche dei luppoli americani.",
+    "titoloVideo": "Beviamo le birre artigianali del Birrificio AF",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/0jSA02JM6Qo?t=710",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birrificio AF Dubbel",
+    "prezzo": "—",
+    "posizione": 4,
+    "note": "Una birra avvolgente e confortante, descritta come un abbraccio caloroso, perfetta per una serata intima sul divano.",
+    "titoloVideo": "Beviamo le birre artigianali del Birrificio AF",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/0jSA02JM6Qo?t=790",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birrificio AF Strong Ale",
+    "prezzo": "—",
+    "posizione": 5,
+    "note": "Una strong ale da 8,5° di gradazione alcolica, definita sorprendentemente buona e lontana dalle solite birre pesanti da supermercato.",
+    "titoloVideo": "Beviamo le birre artigianali del Birrificio AF",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/0jSA02JM6Qo?t=960",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birrificio AF Quadruple",
+    "prezzo": "—",
+    "posizione": 6,
+    "note": "Una birra da meditazione complessa, ricca e lussuriosa da 8,5°, con note di miele e un profilo aromatico profondo ed evolutivo.",
+    "titoloVideo": "Beviamo le birre artigianali del Birrificio AF",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/0jSA02JM6Qo?t=1120",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "La Bruette IPA",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Una IPA artigianale francese con un amaro strutturato, marcato e molto gradevole in coda al retrogusto. Più complessa e combattiva rispetto all'altra.",
+    "titoloVideo": "Le IPA dalla PROVENZA",
+    "dataVideo": "2025-10-22",
+    "linkVideo": "https://youtu.be/BpsOpn0KjP4?t=100",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Le Break IPA Bio",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Una IPA biologica di montagna, più semplice, pulita e facile da bere, con un profilo meno impegnativo ma comunque molto gradevole.",
+    "titoloVideo": "Le IPA dalla PROVENZA",
+    "dataVideo": "2025-10-22",
+    "linkVideo": "https://youtu.be/BpsOpn0KjP4?t=242",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Chisté Blonde",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Una birra bionda di stile francese (Bière de Garde), caratterizzata da un attacco leggermente amaro e una coda morbida. Un prodotto particolare e diverso dalle classiche bionde tedesche.",
+    "titoloVideo": "Le BIRRE dalla FRANCIA",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/p0C7brSl_jE?t=130",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Chisté Triple",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Una birra bionda filtrata ad alta gradazione (8,5°) in stile Bière de Garde, con sentori di cereali e note fruttate. Dolceastra ma molto piacevole, batte nettamente le classiche birre forti industriali come la 8.6.",
+    "titoloVideo": "Le BIRRE dalla FRANCIA",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/p0C7brSl_jE?t=415",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Kaiserdom Pils",
+    "prezzo": 2.99,
+    "posizione": 3,
+    "note": "Una pils tedesca da 1 litro in lattina, caratterizzata da un finale con un amaro intenso e quasi violento che tende a seccare la bocca. Giudicata la peggiore del terzetto e sconsigliata.",
+    "titoloVideo": "Un LITRO di BIRRA",
+    "dataVideo": "2025-10-01",
+    "linkVideo": "https://youtu.be/tO7kJc5NQo4?t=150",
+    "linkUfficiale": "https://www.kaiserdom.de"
+  },
+  {
+    "nomeBirra": "Kaiserdom Hefe-Weißbier",
+    "prezzo": 2.99,
+    "posizione": 2,
+    "note": "Una birra di frumento (Weiss) tedesca in formato da 1 litro, con aromi tipici ma leggermente inferiori rispetto a marche di riferimento come Paulaner o Franziskaner. Comunque piacevole e onesta.",
+    "titoloVideo": "Un LITRO di BIRRA",
+    "dataVideo": "2025-10-01",
+    "linkVideo": "https://youtu.be/tO7kJc5NQo4?t=500",
+    "linkUfficiale": "https://www.kaiserdom.de"
+  },
+  {
+    "nomeBirra": "Kaiserdom Kellerbier",
+    "prezzo": 2.99,
+    "posizione": 1,
+    "note": "Una birra non filtrata (Keller) rustica e con un buon corpo, caratterizzata da un amarognolo iniziale interessante e un finale gradevole e non fastidioso.",
+    "titoloVideo": "Un LITRO di BIRRA",
+    "dataVideo": "2025-10-01",
+    "linkVideo": "https://youtu.be/tO7kJc5NQo4?t=710",
+    "linkUfficiale": "https://www.kaiserdom.de"
+  },
+  {
+    "nomeBirra": "8.6 Original",
+    "prezzo": 1.65,
+    "posizione": 3,
+    "note": "La classica 8.6 chiara ad alta gradazione (8,6°). Ha un odore dolceastro e, pur essendo una birra forte, risulta migliore di molte altre concorrenti da supermercato di pari categoria.",
+    "titoloVideo": "Beviamo tutte le BIRRE 8.6",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/8j0CEbKA5q4?t=194",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "8.6 Intense Gold Beer",
+    "prezzo": 1.65,
+    "posizione": 1,
+    "note": "Versione dorata a 6,5°. Piacevole, bilanciata e non eccessivamente dolciastra. Trovata complessivamente gradevole e superiore alla versione originale.",
+    "titoloVideo": "Beviamo tutte le BIRRE 8.6",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/8j0CEbKA5q4?t=531",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "8.6 Intense Red",
+    "prezzo": 1.65,
+    "posizione": 5,
+    "note": "Versione rossa ad alta gradazione (7,9°). Giudicata molto dolce, stucchevole in bocca e la meno convincente del gruppo.",
+    "titoloVideo": "Beviamo tutte le BIRRE 8.6",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/8j0CEbKA5q4?t=821",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "8.6 Intense IPA Style",
+    "prezzo": 1.65,
+    "posizione": 2,
+    "note": "Una India Pale Lager ispirata allo stile IPA. Meno dolce rispetto alle altre della gamma, con una buona presenza di amaro che modula il finale rendendolo morbido.",
+    "titoloVideo": "Beviamo tutte le BIRRE 8.6",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/8j0CEbKA5q4?t=1230",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "8.6 Extreme",
+    "prezzo": 1.65,
+    "posizione": 4,
+    "note": "Birra extra forte a 10,5°. Molto intensa e violenta, ma considerata nel complesso meno stucchevole rispetto alla versione Red.",
+    "titoloVideo": "Beviamo tutte le BIRRE 8.6",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/8j0CEbKA5q4?t=1449",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "8.6 Cherry Intense Fruity Lager",
+    "prezzo": "—",
+    "posizione": 6,
+    "note": "Birra fruttata aromatizzata alla ciliegia a 7,2°, trovata all'estero (Francia). Molto particolare, ricorda la cherry cola, con una schiuma rosata e un profilo decisamente insolito.",
+    "titoloVideo": "Beviamo tutte le BIRRE 8.6",
+    "dataVideo": "2025-10-08",
+    "linkVideo": "https://youtu.be/8j0CEbKA5q4?t=1826",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Demon Mega 16°",
+    "prezzo": 1.89,
+    "posizione": "—",
+    "note": "Birra extra forte da ben 16° acquistata all'Ipertosano. Ha un impatto alcolico fortissimo e bruciante che ricorda l'alcol denaturato, ma paradossalmente sparisce in bocca più rapidamente rispetto alla versione da 12° (Douche Demon). Comunque giudicata imbevibile o sgradevole, ma meno fastidiosa di certe birre analcoliche.",
+    "titoloVideo": "Beviamo la MEGA DEMON da 16 gradi!",
+    "dataVideo": "2025-09-10",
+    "linkVideo": "https://youtu.be/88aTZoybAmM?t=220",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Oettinger Alkoholfrei",
+    "prezzo": 0.45,
+    "posizione": 8,
+    "note": "Birra analcolica tedesca (meno dello 0,5%), economica ma con un odore sgradevole e un sapore marcatamente dolce e fastidioso, giudicata la peggiore del gruppo.",
+    "titoloVideo": "Beviamo tutte le BIRRE ANALCOLICHE",
+    "dataVideo": "2026-06-17",
+    "linkVideo": "https://youtu.be/X9sgmlrnzhE?t=625",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Fink Brau Alkoholfrei",
+    "prezzo": 0.49,
+    "posizione": 7,
+    "note": "Analcolica economica, leggermente meno grave della Oettinger ma comunque molto distante dall'essere gradevole o vicina al sapore della vera birra.",
+    "titoloVideo": "Beviamo tutte le BIRRE ANALCOLICHE",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/X9sgmlrnzhE?t=950",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Poretti 3 Luppoli Analcolica",
+    "prezzo": 0.53,
+    "posizione": 6,
+    "note": "Versione analcolica (0,5%) di Poretti. Più gassata rispetto ad altre, ma con un profilo di sapore deludente e piatto.",
+    "titoloVideo": "Beviamo tutte le BIRRE ANALCOLICHE",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/X9sgmlrnzhE?t=1100",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Herdinger Alkoholfrei",
+    "prezzo": 0.85,
+    "posizione": 5,
+    "note": "Birra analcolica isotonica con vitamine. Poco odore fastidioso e leggermente opaca, ma il sapore ricorda più una bevanda analcolica generica che una birra.",
+    "titoloVideo": "Beviamo tutte le BIRRE ANALCOLICHE",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/X9sgmlrnzhE?t=1470",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Beck's Blue Alkoholfrei",
+    "prezzo": 0.85,
+    "posizione": 4,
+    "note": "Versione analcolica di Beck's (0,3%). Più gassata e con un leggero amarino, giudicata leggermente meno grave rispetto alla media.",
+    "titoloVideo": "Beviamo tutte le BIRRE ANALCOLICHE",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/X9sgmlrnzhE?t=1810",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Bavaria 0.0",
+    "prezzo": 1.15,
+    "posizione": 3,
+    "note": "Birra completamente analcolica (0,0%) della Bavaria. Presenta un fondo aromatico strano e poco convincente, simile a erbacce o rosmarino.",
+    "titoloVideo": "Beviamo tutte le BIRRE ANALCOLICHE",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/X9sgmlrnzhE?t=1980",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Corona Cero 0.0",
+    "prezzo": 1.45,
+    "posizione": 1,
+    "note": "La versione 0.0 della celebre Corona. Rispetto alle altre presenta sapori leggermente meno sgradevoli, ma non riesce comunque a replicare l'esperienza o l'utilità di una vera birra.",
+    "titoloVideo": "Beviamo tutte le BIRRE ANALCOLICHE",
+    "dataVideo": "2026-06-06",
+    "linkVideo": "https://youtu.be/X9sgmlrnzhE?t=2200",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Schwerter Bräu Hell",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra chiara semplice, una normale birra da tavola senza particolari difetti, preferita tra le lattine economiche.",
+    "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
+    "dataVideo": "2025-08-13",
+    "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=224",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Gralsburg Premium Beer",
+    "prezzo": 0.59,
+    "posizione": 2,
+    "note": "Birra lager economica, leggermente meno amara ma un po' acquosa e deludente sul lungo periodo.",
+    "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
+    "dataVideo": "2025-08-13",
+    "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=420",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Castello Low Alcol",
+    "prezzo": 0.59,
+    "posizione": 3,
+    "note": "Birra a bassa gradazione (3,5%), con leggero odore di ferro e poco alcolica, ma fa la sua figura come alternativa economica.",
+    "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
+    "dataVideo": "2025-08-13",
+    "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=712",
+    "linkUfficiale": "https://www.birracastello.it/"
+  },
+  {
+    "nomeBirra": "Zähringer Schwarzbier",
+    "prezzo": 0.55,
+    "posizione": 4,
+    "note": "Birra scura economica (1,10€ al litro); attacco promettente con buone intenzioni, ma finale deludente.",
+    "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
+    "dataVideo": "2025-08-13",
+    "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=895",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Oettinger Schwarzbier",
+    "prezzo": 0.7,
+    "posizione": 5,
+    "note": "Birra scura piuttosto insignificante, sebbene presenti un impercettibile sentore tostato rispetto alla Zähringer.",
+    "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
+    "dataVideo": "2025-08-13",
+    "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=1060",
+    "linkUfficiale": "https://www.oettinger-bier.de/"
+  },
+  {
+    "nomeBirra": "Williamsbrau Super Strong",
+    "prezzo": 0.9,
+    "posizione": 6,
+    "note": "Birra super strong ad alta gradazione (8,3%), giudicata sgradevole, pesante e decisamente evitabile.",
+    "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
+    "dataVideo": "2025-08-13",
+    "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=1300",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Oettinger Super Strong",
+    "prezzo": 0.95,
+    "posizione": 7,
+    "note": "Birra strong ad alta gradazione (8,9%), bocciata severamente dai recensori per il pessimo sapore e l'effetto sgradevole.",
+    "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
+    "dataVideo": "2025-08-13",
+    "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=1460",
+    "linkUfficiale": "https://www.oettinger-bier.de/"
+  },
+  {
+    "nomeBirra": "SeyBrew",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra lager chiara delle Seychelles, onesta e gradevole (voto 6), ottima se gustata in spiaggia sul posto ma complessivamente una classica chiara senza particolari lodi.",
+    "titoloVideo": "La BIRRA delle SEYCHELLES",
+    "dataVideo": "2025-08-06",
+    "linkVideo": "https://youtu.be/LydHTy2D8sM?t=175",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birra Messina Cristalli di Sale",
+    "prezzo": "—",
+    "posizione": 5,
+    "note": "Aquisita da Heineken nell'88, birra gradevole e sufficiente, migliorata mescolandola per diffondere il sale accumulato sul fondo.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 2",
+    "dataVideo": "2025-07-23",
+    "linkVideo": "https://youtu.be/TCkToob8f98?t=35",
+    "linkUfficiale": "https://www.birramessina.it/"
+  },
+  {
+    "nomeBirra": "Nastro Azzurro",
+    "prezzo": "—",
+    "posizione": 4,
+    "note": "La premium di Peroni, molto apprezzata all'estero e in Inghilterra, con un retrogusto marcato e particolare molto gradito dai recensori.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 2",
+    "dataVideo": "2025-07-23",
+    "linkVideo": "https://youtu.be/TCkToob8f98?t=220",
+    "linkUfficiale": "https://www.nastroazzurro.it/"
+  },
+  {
+    "nomeBirra": "Baladin Birra Nazionale",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Simbolo della birra artigianale italiana (fatta con ingredienti 100% italiani), profumo eccezionale, birra di categoria superiore e di altissima qualità.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 2",
+    "dataVideo": "2025-07-23",
+    "linkVideo": "https://youtu.be/TCkToob8f98?t=1300",
+    "linkUfficiale": "https://www.baladin.it/"
+  },
+  {
+    "nomeBirra": "Birra del Borgo Lisa",
+    "prezzo": 2.5,
+    "posizione": 3,
+    "note": "IPA etichetta verde, primo storico birrificio artigianale acquisito da una multinazionale (AB InBev); buona ma ha lasciato un leggero senso di delusione rispetto alle aspettative.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 2",
+    "dataVideo": "2025-07-23",
+    "linkVideo": "https://youtu.be/TCkToob8f98?t=720",
+    "linkUfficiale": "https://www.birradelborgo.it/"
+  },
+  {
+    "nomeBirra": "Raffo",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Birra del Sud prodotta da Peroni, molto sponsorizzata recentemente; fresca, con un bel retrogusto amaro e piaciuta molto più di quanto ci si aspettasse, piazzandosi a ridosso delle prime.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 2",
+    "dataVideo": "2025-07-23",
+    "linkVideo": "https://youtu.be/TCkToob8f98?t=1020",
+    "linkUfficiale": "https://www.birra-raffo.it/"
+  },
+  {
+    "nomeBirra": "Peroni",
+    "prezzo": "—",
+    "posizione": 5,
+    "note": "Birra storica italiana dal 1930 (oggi di proprietà del gruppo giapponese Asahi), un grande classico da tavola dal gusto familiare ma inferiore alle altre provate.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
+    "dataVideo": "2025-07-09",
+    "linkVideo": "https://youtu.be/SKFwRoQVQ-E?t=195",
+    "linkUfficiale": "https://www.peroni.it/"
+  },
+  {
+    "nomeBirra": "Forst",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Birra altoatesina prodotta dal 1940, di proprietà familiare e indipendente; colore giallo intenso, profumo ottimo e gusto molto gradevole.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
+    "dataVideo": "2025-07-09",
+    "linkVideo": "https://youtu.be/SKFwRoQVQ-E?t=480",
+    "linkUfficiale": "https://www.forst.it/"
+  },
+  {
+    "nomeBirra": "Menabrea",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra piemontese diffusa a livello nazionale dagli anni '50 (del gruppo Forst), considerata eccellente e tra le migliori della degustazione.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
+    "dataVideo": "2025-07-09",
+    "linkVideo": "https://youtu.be/SKFwRoQVQ-E?t=630",
+    "linkUfficiale": "https://www.menabrea.it/"
+  },
+  {
+    "nomeBirra": "Ichnusa Non Filtrata",
+    "prezzo": "—",
+    "posizione": 3,
+    "note": "Birra sarda degli anni '60 (gruppo Heineken), versione non filtrata con spiccati sentori di lievito, molto buona e apprezzata.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
+    "dataVideo": "2025-07-09",
+    "linkVideo": "https://youtu.be/SKFwRoQVQ-E?t=865",
+    "linkUfficiale": "https://www.ichnusa.it/"
+  },
+  {
+    "nomeBirra": "Birra Moretti",
+    "prezzo": "—",
+    "posizione": 4,
+    "note": "Birra degli anni '70 (gruppo Heineken), la classica birra da pizzeria ma risultata leggermente inferiore rispetto alle altre concorrenti della degustazione.",
+    "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
+    "dataVideo": "2025-07-09",
+    "linkVideo": "https://youtu.be/SKFwRoQVQ-E?t=1020",
+    "linkUfficiale": "https://www.birramoretti.com/"
+  },
+  {
+    "nomeBirra": "Best Bräu Premium Lager",
+    "prezzo": 1.05,
+    "posizione": 3,
+    "note": "Bottiglione da 66 cl, birra lager economica da supermercato (Eurospin); sapore normale senza difetti gravi, giudicata decente e superiore alle aspettative di Chat GPT.",
+    "titoloVideo": "Le BIRRE PEGGIORI secondo ChatGPT",
+    "dataVideo": "2025-06-25",
+    "linkVideo": "https://youtu.be/qvm_42v_UXA?t=105",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Poretti 3 Luppoli",
+    "prezzo": 1.25,
+    "posizione": 1,
+    "note": "Bottiglione da 66 cl, birra lager leggera e beverina, considerata una birra degna, piacevole e decisamente superiore alla Best Bräu.",
+    "titoloVideo": "Le BIRRE PEGGIORI secondo ChatGPT",
+    "dataVideo": "2025-06-25",
+    "linkVideo": "https://youtu.be/qvm_42v_UXA?t=260",
+    "linkUfficiale": "https://www.birrificioporetti.it/"
+  },
+  {
+    "nomeBirra": "Tuborg",
+    "prezzo": 1.09,
+    "posizione": 2,
+    "note": "Famosa birra verde danese da 50 cl, scorrevole, con un buon carattere e un profilo superiore rispetto alle classiche lager da discount.",
+    "titoloVideo": "Le BIRRE PEGGIORI secondo ChatGPT",
+    "dataVideo": "2025-06-25",
+    "linkVideo": "https://youtu.be/qvm_42v_UXA?t=370",
+    "linkUfficiale": "https://www.tuborg.it/"
+  },
+  {
+    "nomeBirra": "Othmann Bräu (Hotwald)",
+    "prezzo": 0.9,
+    "posizione": 5,
+    "note": "Birra economica da 66 cl in bottiglia di plastica (MD); tende a lasciare la bocca molto secca (allappa) e non offre particolari spunti positivi.",
+    "titoloVideo": "Le BIRRE PEGGIORI secondo ChatGPT",
+    "dataVideo": "2025-06-25",
+    "linkVideo": "https://youtu.be/qvm_42v_UXA?t=490",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "William Brau",
+    "prezzo": 1.1,
+    "posizione": 4,
+    "note": "Birra in bottiglia di plastica da 66 cl, giudicata di fatto identica alla Hotwald (stesso stabilimento di produzione in Belgio); nel complesso evitabile e deludente.",
+    "titoloVideo": "Le BIRRE PEGGIORI secondo ChatGPT",
+    "dataVideo": "2025-06-25",
+    "linkVideo": "https://youtu.be/qvm_42v_UXA?t=710",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Leonardo (Artisti della Birra)",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Italian lager senza glutine del birrificio 26 nero (Poggibonsi), con caratteristiche simili a una blanche, molto aromatica, profumata e giudicata la migliore della degustazione insieme alla bitter.",
+    "titoloVideo": "Ottima BIRRA in centro a FIRENZE",
+    "dataVideo": "2025-06-18",
+    "linkVideo": "https://youtu.be/rfon7oTEIEA?t=130",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Giotto (Artisti della Birra)",
+    "prezzo": "—",
+    "posizione": 3,
+    "note": "Birra stile Blanche prodotta con coriandolo e buccia d'arancia; profumata e agrumata, ma complessivamente un gradino sotto le altre due.",
+    "titoloVideo": "Ottima BIRRA in centro a FIRENZE",
+    "dataVideo": "2025-06-18",
+    "linkVideo": "https://youtu.be/rfon7oTEIEA?t=280",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Dante (Artisti della Birra)",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Strong bitter in stile inglese (circa 5°), con un amaro deciso e gradevole all'attacco e un'ottima persistenza in coda; molto apprezzata.",
+    "titoloVideo": "Ottima BIRRA in centro a FIRENZE",
+    "dataVideo": "2025-06-18",
+    "linkVideo": "https://youtu.be/rfon7oTEIEA?t=390",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Steam Brew Session IPA",
+    "prezzo": 0.95,
+    "posizione": 2,
+    "note": "Session IPA da 4,9° della Lidl, molto gradevole, fresca e facile da bere, promossa a pieni voti dai recensori.",
+    "titoloVideo": "Beviamo tutte le STEAMBREW della LIDL",
+    "dataVideo": "2025-05-28",
+    "linkVideo": "https://youtu.be/LNi54gWaHh8?t=410",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Steam Brew Wheat Pale Ale",
+    "prezzo": 0.95,
+    "posizione": 3,
+    "note": "Wheat Pale Ale da 5,6° con sentori di frumento, buona e onesta, ottima alternativa economica.",
+    "titoloVideo": "Beviamo tutte le STEAMBREW della LIDL",
+    "dataVideo": "2025-05-28",
+    "linkVideo": "https://youtu.be/LNi54gWaHh8?t=480",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Steam Brew Imperial Stout",
+    "prezzo": 1.25,
+    "posizione": 1,
+    "note": "Imperial Stout robusta (7,8°), considerata la regina della linea Steam Brew e la migliore tra quelle assaggiate, ricca e piacevole.",
+    "titoloVideo": "Beviamo tutte le STEAMBREW della LIDL",
+    "dataVideo": "2025-05-28",
+    "linkVideo": "https://youtu.be/LNi54gWaHh8?t=750",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Steam Brew Imperial IPA",
+    "prezzo": 1.25,
+    "posizione": 5,
+    "note": "Imperial IPA da 7,8°, caratterizzata da un attacco molto amaro e aggressivo che purtroppo si perde sul retrogusto finale diventando un po' fastidioso.",
+    "titoloVideo": "Beviamo tutte le STEAMBREW della LIDL",
+    "dataVideo": "2025-05-28",
+    "linkVideo": "https://youtu.be/LNi54gWaHh8?t=1010",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Steam Brew German Red",
+    "prezzo": 1.25,
+    "posizione": 4,
+    "note": "Birra rossa tedesca (tipo bock/doppelbock) da 7,9°, solida e onesta, ideale per chi cerca una gradazione elevata e un buon corpo.",
+    "titoloVideo": "Beviamo tutte le STEAMBREW della LIDL",
+    "dataVideo": "2025-05-28",
+    "linkVideo": "https://youtu.be/LNi54gWaHh8?t=1220",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Barrel Dark (Чернігівське / Obolon / locale ucraina)",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra lager scura filtrata ucraina (circa 4,2°) portata direttamente da Kiev; limpida, gradevole, molto superiore alla Kozel Dark e leggera da bere.",
+    "titoloVideo": "Beviamo una BIRRA UCRAINA",
+    "dataVideo": "2025-05-14",
+    "linkVideo": "https://youtu.be/zHewA7PoYzQ?t=175",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Oberbräu Premium",
+    "prezzo": 0.64,
+    "posizione": 2,
+    "note": "Birra lager chiara tedesca molto economica (0,64€), semplice ma onesta e gradevole; eccezionale rapporto qualità-prezzo.",
+    "titoloVideo": "BEVIAMO tutte le BIRRE del D+",
+    "dataVideo": "2025-05-07",
+    "linkVideo": "https://youtu.be/Gdi8A2AFb3U?t=150",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Oberbräu Non Filtrata",
+    "prezzo": 0.99,
+    "posizione": 3,
+    "note": "Birra non filtrata da 5,7°, profumata, buona e gradevole, pur costando un po' di più della versione premium.",
+    "titoloVideo": "BEVIAMO tutte le BIRRE del D+",
+    "dataVideo": "2025-05-07",
+    "linkVideo": "https://youtu.be/Gdi8A2AFb3U?t=340",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Karlsbräu Urpils Herb",
+    "prezzo": 0.99,
+    "posizione": 4,
+    "note": "Pils tedesca dal retrogusto erbaceo un po' deludente e non particolarmente entusiasmante.",
+    "titoloVideo": "BEVIAMO tutte le BIRRE del D+",
+    "dataVideo": "2025-05-07",
+    "linkVideo": "https://youtu.be/Gdi8A2AFb3U?t=520",
+    "linkUfficiale": "https://www.karlsbraeu.de/"
+  },
+  {
+    "nomeBirra": "Karlsbräu Kellerbier",
+    "prezzo": 0.99,
+    "posizione": 5,
+    "note": "Kellerbier torbida da 5,2°, scorrevole ma con un retrogusto non eccezionale e complessivamente mediocre.",
+    "titoloVideo": "BEVIAMO tutte le BIRRE del D+",
+    "dataVideo": "2025-05-07",
+    "linkVideo": "https://youtu.be/Gdi8A2AFb3U?t=720",
+    "linkUfficiale": "https://www.karlsbraeu.de/"
+  },
+  {
+    "nomeBirra": "Česká Koruna",
+    "prezzo": 1.19,
+    "posizione": 1,
+    "note": "Birra ceca (prodotta dal birrificio Nimburk) da 4,7°, con un amaro deciso all'attacco e una coda morbida; la migliore della degustazione.",
+    "titoloVideo": "BEVIAMO tutte le BIRRE del D+",
+    "dataVideo": "2025-05-07",
+    "linkVideo": "https://youtu.be/Gdi8A2AFb3U?t=890",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Dalberg Pils",
+    "prezzo": 0.59,
+    "posizione": 6,
+    "note": "Birra lager economica da 1€ al litro dell'Ins (prodotta da Fürth); impatto iniziale normale ma retrogusto finale fastidioso e scomodo.",
+    "titoloVideo": "BIRRA da €1 vs BIRRA da €100",
+    "dataVideo": "2025-04-23",
+    "linkVideo": "https://youtu.be/mClVLwRdgr8?t=400",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Duff Beer",
+    "prezzo": 0.99,
+    "posizione": 5,
+    "note": "Birra lager (ispirata ai Simpson) prodotta in Germania (Eichbaum), leggermente migliore della Dalberg ma comunque una birra economica da discount senza grandi lodi.",
+    "titoloVideo": "BIRRA da €1 vs BIRRA da €100",
+    "dataVideo": "2025-04-23",
+    "linkVideo": "https://youtu.be/mClVLwRdgr8?t=400",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Franziskaner Hefe-Weissbier",
+    "prezzo": 1.5,
+    "posizione": 4,
+    "note": "Classica birra Weizen tedesca di Monaco, profumata e rappresentativa dello stile, considerata un punto di riferimento solido e piacevole.",
+    "titoloVideo": "BIRRA da €1 vs BIRRA da €100",
+    "dataVideo": "2025-04-23",
+    "linkVideo": "https://youtu.be/mClVLwRdgr8?t=630",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Leffe Ambrée",
+    "prezzo": 1.64,
+    "posizione": 3,
+    "note": "Birra d'abbazia belga ambrata (6,6°), molto diffusa, strutturata, piacevole e una garanzia assoluta al supermercato.",
+    "titoloVideo": "BIRRA da €1 vs BIRRA da €100",
+    "dataVideo": "2025-04-23",
+    "linkVideo": "https://youtu.be/mClVLwRdgr8?t=810",
+    "linkUfficiale": "https://www.leffe.com/"
+  },
+  {
+    "nomeBirra": "Duchesse de Chouffe",
+    "prezzo": 2.65,
+    "posizione": 2,
+    "note": "Birra belga bionda forte (8°), strutturata, aromatica e di altissima qualità, ideale per una serata speciale.",
+    "titoloVideo": "BIRRA da €1 vs BIRRA da €100",
+    "dataVideo": "2025-04-23",
+    "linkVideo": "https://youtu.be/mClVLwRdgr8?t=1020",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Goose Island Bourbon County Brand Stout",
+    "prezzo": 50.0,
+    "posizione": 1,
+    "note": "Imperial Stout statunitense (2017) invecchiata in botti di bourbon (14,1°); birra meditativa ed esperienziale straordinaria, ricca di note complesse di cioccolato, vaniglia, cuoio e legno.",
+    "titoloVideo": "BIRRA da €1 vs BIRRA da €100",
+    "dataVideo": "2025-04-23",
+    "linkVideo": "https://youtu.be/mClVLwRdgr8?t=1300",
+    "linkUfficiale": "https://www.gooseisland.com/"
+  },
+  {
+    "nomeBirra": "Perlenbacher Festbier",
+    "prezzo": 0.89,
+    "posizione": 1,
+    "note": "Una birra chiara di tipo Festbier trovata alla Lidl, decisamente migliore rispetto alle classiche Pils o Lager dello stesso marchio precedentemente provate. Giudicata apprezzabile e buona nel complesso, pur essendo fuori stagione (assaggiata a fine febbraio/marzo).",
+    "titoloVideo": "La BIRRA dell'OKTOBERFEST della LIDL",
+    "dataVideo": "2025-04-09",
+    "linkVideo": "https://youtu.be/rWo72xrRH9Y?t=25",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Olle Brau Lager",
+    "prezzo": 0.67,
+    "posizione": 1,
+    "note": "Birra lager prodotta in Germania, molto profumata, scorrevole, sgrassa bene con un bellissimo amaro di fondo non fastidioso. Vincitrice della puntata.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'IN'S",
+    "dataVideo": "2025-03-12",
+    "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=139",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Olle Brau Vais",
+    "prezzo": 0.69,
+    "posizione": 2,
+    "note": "Birra weiss prodotta in Germania, colorito tipico, non particolarmente intensa ma beverina e sufficiente per il prezzo proposto.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'IN'S",
+    "dataVideo": "2025-03-12",
+    "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=350",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Monaster",
+    "prezzo": 1.19,
+    "posizione": 3,
+    "note": "Birra d'abbazia fatta in Francia su licenza olandese, premiata ai World Beer Award. Strutturata, qualitativamente ottima e scorrevole.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'IN'S",
+    "dataVideo": "2025-03-12",
+    "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=480",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Galat Super Strong",
+    "prezzo": 1.15,
+    "posizione": 4,
+    "note": "Birra extra forte da 12° con forte dolcezza di fondo, simile a una Tennent's ma più alcolica e stucchevole; indicata da abbinare a una sigaretta dopo il lavoro.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'IN'S",
+    "dataVideo": "2025-03-12",
+    "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=1199",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Galat Extra Strong",
+    "prezzo": 0.95,
+    "posizione": 5,
+    "note": "Birra ad alta gradazione (8,5°) prodotta da Van Pur. Leggermente sottotono ma sufficiente per il genere.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'IN'S",
+    "dataVideo": "2025-03-12",
+    "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=1000",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "O Stout",
+    "prezzo": 1.19,
+    "posizione": 6,
+    "note": "Extra Stout prodotta da Van Pur in Polonia. Delusione della puntata: colore rosso ambrato (simile a una birra rossa) e sapore completamente diverso da una vera Stout.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'IN'S",
+    "dataVideo": "2025-03-12",
+    "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=674",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Guinness 0,0 (Analcolica)",
+    "prezzo": 7.72,
+    "posizione": 1,
+    "note": "Versione analcolica della celebre Stout, fatta con filtrazione a freddo. Sorprendentemente buona, vicina all'originale con lievi note caffettose, ottima alternativa senza alcool nonostante il prezzo elevato.",
+    "titoloVideo": "Beviamo la GUINNESS ANALCOLICA - Bonus video",
+    "dataVideo": "2025-02-12",
+    "linkVideo": "https://youtu.be/N1jO6fgWROU?t=293",
+    "linkUfficiale": "https://www.guinness.com/"
+  },
+  {
+    "nomeBirra": "Guinness Originale",
+    "prezzo": 3.0,
+    "posizione": 2,
+    "note": "La classica Stout tradizionale in lattina con capsula di plastica per la schiuma. Un'autentica comfort zone, l'abbraccio del migliore amico in purezza.",
+    "titoloVideo": "Beviamo la GUINNESS ANALCOLICA - Bonus video",
+    "dataVideo": "2025-02-12",
+    "linkVideo": "https://youtu.be/N1jO6fgWROU?t=500",
+    "linkUfficiale": "https://www.guinness.com/"
+  },
+  {
+    "nomeBirra": "Birra Lager Spesotti",
+    "prezzo": 0.49,
+    "posizione": 3,
+    "note": "Birra lager a marchio Spesotti (Coop), con un leggero fastidio iniziale al naso ma nel complesso una birra onesta, beverina e sufficiente per il prezzo contenuto.",
+    "titoloVideo": "Beviamo le BIRRE SPESOTTI della COOP",
+    "dataVideo": "2025-02-05",
+    "linkVideo": "https://youtu.be/GE_wRAWB4JM?t=150",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birra Strong Spesotti",
+    "prezzo": 0.89,
+    "posizione": 2,
+    "note": "Birra strong a 7,6° a marchio Spesotti (Coop), prodotta da Van Pur. Più gradevole al naso rispetto alla lager, scorrevole e senza elementi di fastidio.",
+    "titoloVideo": "Beviamo le BIRRE SPESOTTI della COOP",
+    "dataVideo": "2025-02-05",
+    "linkVideo": "https://youtu.be/GE_wRAWB4JM?t=555",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Birra Extra Strong Spesotti",
+    "prezzo": 0.95,
+    "posizione": 1,
+    "note": "Birra extra strong a 9° a marchio Spesotti (Coop), prodotta da Van Pur. Nonostante la gradazione elevata, non risulta sgradevole, passa liscia e si posiziona al vertice della classifica della puntata.",
+    "titoloVideo": "Beviamo le BIRRE SPESOTTI della COOP",
+    "dataVideo": "2025-02-05",
+    "linkVideo": "https://youtu.be/GE_wRAWB4JM?t=770",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Bornem Dubbel",
+    "prezzo": 1.66,
+    "posizione": 1,
+    "note": "Birra d'abbazia belga scura da 7,2°, prodotta da Van Steenberge. Carattere deciso, spinge bene con una coda piacevole sul finale. Ottima.",
+    "titoloVideo": "Beviamo le BIRRE BELGHE della LIDL",
+    "dataVideo": "2025-01-29",
+    "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=174",
+    "linkUfficiale": "https://www.vansteenberge.com/"
+  },
+  {
+    "nomeBirra": "Bornem Tripel",
+    "prezzo": 1.66,
+    "posizione": 2,
+    "note": "Birra d'abbazia belga tripel, molto buona, acidula e speziata, lascia in bocca una sensazione piacevole e burrosa.",
+    "titoloVideo": "Beviamo le BIRRE BELGHE della LIDL",
+    "dataVideo": "2025-01-29",
+    "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=415",
+    "linkUfficiale": "https://www.vansteenberge.com/"
+  },
+  {
+    "nomeBirra": "Pirat",
+    "prezzo": 1.66,
+    "posizione": 6,
+    "note": "Belgian Strong Ale da 10,5° prodotta da Van Steenberge. Gradevole ma con un retrogusto un po' aggressivo che la posiziona un gradino sotto le altre.",
+    "titoloVideo": "Beviamo le BIRRE BELGHE della LIDL",
+    "dataVideo": "2025-01-29",
+    "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=570",
+    "linkUfficiale": "https://www.vansteenberge.com/"
+  },
+  {
+    "nomeBirra": "Pirat Triple Hop",
+    "prezzo": 1.66,
+    "posizione": 5,
+    "note": "Versione luppolata a secco della Pirat (10,5°). Meno intensa del previsto ma comunque molto gradevole e scorrevole.",
+    "titoloVideo": "Beviamo le BIRRE BELGHE della LIDL",
+    "dataVideo": "2025-01-29",
+    "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=895",
+    "linkUfficiale": "https://www.vansteenberge.com/"
+  },
+  {
+    "nomeBirra": "Gulden Draak 9000 Quadruple",
+    "prezzo": 1.66,
+    "posizione": 3,
+    "note": "Birra belga ad alta gradazione (10,5°) in bottiglia bianca rivestita, molto piacevole, ricca e soddisfacente.",
+    "titoloVideo": "Beviamo le BIRRE BELGHE della LIDL",
+    "dataVideo": "2025-01-29",
+    "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=1065",
+    "linkUfficiale": "https://www.vansteenberge.com/"
+  },
+  {
+    "nomeBirra": "Gulden Draak Classic",
+    "prezzo": 1.66,
+    "posizione": 4,
+    "note": "Dark Strong Ale da 10,5° eccellente, profumata e ricca, tra le migliori della degustazione del box belga Lidl.",
+    "titoloVideo": "Beviamo le BIRRE BELGHE della LIDL",
+    "dataVideo": "2025-01-29",
+    "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=1375",
+    "linkUfficiale": "https://www.vansteenberge.com/"
+  },
+  {
+    "nomeBirra": "11 Paralleli Rossa",
+    "prezzo": 0.96,
+    "posizione": 1,
+    "note": "Birra rossa a marchio Conad (6,5°), prodotta da Birra Castello/Pedavena. Più saporita ed equilibrata rispetto alle altre della linea, si posiziona al vertice della puntata.",
+    "titoloVideo": "Beviamo le BIRRE 11 paralleli della CONAD",
+    "dataVideo": "2025-01-08",
+    "linkVideo": "https://youtu.be/LofrlCX0SgE?t=747",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "11 Paralleli Chiara Doppio Malto",
+    "prezzo": 0.96,
+    "posizione": 2,
+    "note": "Birra chiara a 6,5° prodotta da Pedavena/Birra Castello. Corposa e con un buon sapore complessivo senza note fastidiose.",
+    "titoloVideo": "Beviamo le BIRRE 11 paralleli della CONAD",
+    "dataVideo": "2025-01-08",
+    "linkVideo": "https://youtu.be/LofrlCX0SgE?t=597",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "11 Paralleli Non Filtrata",
+    "prezzo": 1.27,
+    "posizione": 3,
+    "note": "Birra in bottiglia da mezzo litro a marchio Conad. Molto limpida per essere una non filtrata, semplice, sufficiente e beverina.",
+    "titoloVideo": "Beviamo le BIRRE 11 paralleli della CONAD",
+    "dataVideo": "2025-01-08",
+    "linkVideo": "https://youtu.be/LofrlCX0SgE?t=471",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "11 Paralleli Bionda Classica",
+    "prezzo": 0.67,
+    "posizione": 4,
+    "note": "Birra lager bionda prodotta da Pedavena per Conad. Classica birra chiara di stile italiano senza infamia e senza lode.",
+    "titoloVideo": "Beviamo le BIRRE 11 paralleli della CONAD",
+    "dataVideo": "2025-01-08",
+    "linkVideo": "https://youtu.be/LofrlCX0SgE?t=316",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "11 Paralleli Strong",
+    "prezzo": 1.1,
+    "posizione": 5,
+    "note": "Birra strong a 8° prodotta in Olanda nello stabilimento Swinkels (lo stesso della 8.6). Intensa ma un po' troppo dolce e alcolica a seconda dei gusti.",
+    "titoloVideo": "Beviamo le BIRRE 11 paralleli della CONAD",
+    "dataVideo": "2025-01-08",
+    "linkVideo": "https://youtu.be/LofrlCX0SgE?t=1017",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Karlskrone Pils",
+    "prezzo": 0.55,
+    "posizione": 1,
+    "note": "Ottimo rapporto qualità/prezzo, profumo buonissimo, fa esattamente quello che deve fare una pils. Molto fresca, semplice e dissetante. Vincitrice della puntata a mani basse.",
+    "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
+    "dataVideo": "2024-12-25",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=220",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Karlskrone Lager",
+    "prezzo": 0.59,
+    "posizione": 2,
+    "note": "Birra lager verde, gradevole e senza difetti fastidiosi, anche se la pils rimane superiore.",
+    "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
+    "dataVideo": "2024-12-25",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=440",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Karlskrone Weisse",
+    "prezzo": 0.69,
+    "posizione": 2,
+    "note": "Birra di frumento (Weissbier) molto delicata e leggera, leggermente opaca, nel complesso buona e beverina.",
+    "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
+    "dataVideo": "2024-12-25",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=555",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Alpen",
+    "prezzo": 1.09,
+    "posizione": 4,
+    "note": "Bottiglione da 66cl prodotto da Birra Castello. Gradevole ma costa un po' di più al litro rispetto alle lattine senza offrire un salto di qualità decisivo.",
+    "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
+    "dataVideo": "2024-12-25",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=720",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Karlista",
+    "prezzo": 0.99,
+    "posizione": 5,
+    "note": "La 'finta Corona' in bottiglia da 33cl. Più costosa delle altre (quasi il triplo al litro), leggermente limonosa con un retrogusto che non convince appieno.",
+    "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
+    "dataVideo": "2024-12-25",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=905",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Karlskrone Strong Beer",
+    "prezzo": 0.89,
+    "posizione": 6,
+    "note": "Gradazione alcolica del 7.2%. All'inizio non fastidiosa per essere una forte, ma diventa pesante e stucchevole al secondo sorso.",
+    "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
+    "dataVideo": "2024-12-25",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=1060",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Karlskrone Radler",
+    "prezzo": 0.69,
+    "posizione": 3,
+    "note": "Radler limpidissima con un profilo di limonata leggero. Forse con poco sapore di limone rispetto alle migliori sul mercato, ma completamente priva di parti sgradevoli.",
+    "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
+    "dataVideo": "2024-12-25",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=1180",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Hotwald",
+    "prezzo": 0.89,
+    "posizione": 4,
+    "note": "Bottiglia di plastica da 66cl con tappo di plastica. Odore simile a Heineken/birra verde, non è male e sparisce senza lasciare retrogusto sgradevole.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=138",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Offerbräu",
+    "prezzo": 0.49,
+    "posizione": 3,
+    "note": "Lattina da 33cl economica, migliore rispetto ad altre entry level (come Bestbräu, Fink e Karlskrone), buonissima e beverina senza difetti fastidiosi.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=435",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Viktor Pils",
+    "prezzo": 0.59,
+    "posizione": 6,
+    "note": "Birra da 50cl molto economica ma talmente priva di sapore da sembrare acqua gassata con la schiuma. Non fastidiosa ma estremamente scarica.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=815",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Carinzia Export",
+    "prezzo": 0.65,
+    "posizione": 8,
+    "note": "Bocciata. Giudicata imbevibile, con un odore sgradevole e sapore pessimo. Decisamente in fondo alla classifica.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1100",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Oranjeboom",
+    "prezzo": 0.69,
+    "posizione": 1,
+    "note": "Birra olandese da Rotterdam. Ottima sorpresa, sapore molto gradevole e soddisfacente. Vincitrice della puntata a pari merito.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1510",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Zlatá Praha",
+    "prezzo": 0.89,
+    "posizione": 2,
+    "note": "Birra di Praga (Seské Pivo). Caratterizzata da un amaro marcato e tagliente, molto particolare e apprezzata.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1750",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Kenner Premium Beer",
+    "prezzo": 0.79,
+    "posizione": 5,
+    "note": "Grafica e colori che ricordano una Weiss, ma in realtà è una lager chiara onesta che fa il suo dovere senza infamia e senza lode.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=2050",
+    "linkUfficiale": null
+  },
+  {
+    "nomeBirra": "Pils Strong",
+    "prezzo": 0.95,
+    "posizione": 7,
+    "note": "Gradazione alcolica 8.5%. Attacco passabile ma finale disastroso e pesante, sconsigliata.",
+    "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
+    "dataVideo": "2024-11-27",
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=2450",
+    "linkUfficiale": null
   }
 ]
