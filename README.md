@@ -32,4 +32,4 @@ No
 ## Ma c'è un errore nel nome della birra...
 
 Allucinazione mia e/o dell'AI.\
-Per sapere come procedere, leggi [qui](#ma-non-c'e-il-video...)
+Per sapere come procedere, leggi [qui](#ma-non-c%C3%A8-il-video)
