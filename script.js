@@ -77,7 +77,11 @@ function createHTMLElementByHeader(header, item) {
   const td = document.createElement("td");
   if (header === "Prezzo") {
     td.classList.add("col-1");
-    td.textContent = "€ " + item.prezzo;
+    if (typeof item.prezzo === "number") {
+      td.textContent = "€ " + item.prezzo.toFixed(2).replace(".", ",");
+    } else {
+      td.textContent = item.prezzo;
+    }
   } else if (header === "Nome birra") {
     td.classList.add("col-2");
     td.textContent = item.nomeBirra;

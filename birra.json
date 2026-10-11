@@ -18,7 +18,7 @@
     "linkVideo": "https://youtu.be/PBRkXGro6XY?t=684"
   },
   {
-    "nomeBirra": "SainTÔM Panaché",
+    "nomeBirra": "Saint-Omer Panaché",
     "prezzo": 0.99,
     "posizione": 3,
     "note": "Quasi analcolica (<0,5% vol), leggera, frizzante e piacevole.",
@@ -72,7 +72,7 @@
     "linkVideo": "https://youtu.be/5htQoKDgAYk?t=1042"
   },
   {
-    "nomeBirra": "Best Bräu Weiss / Weizen",
+    "nomeBirra": "Best Bräu Hefeweizen",
     "prezzo": 0.69,
     "posizione": 3,
     "note": "Meno torbida rispetto alle classiche Weizen, ma leggera e sufficiente (voto 6).",
@@ -171,10 +171,10 @@
     "linkVideo": "https://youtu.be/6rW-Q5BqMWg?t=984"
   },
   {
-    "nomeBirra": "Hacker-Pschorr / Hofbräu HB Oktoberfestbier",
+    "nomeBirra": "Hofbräu HB Oktoberfestbier",
     "prezzo": 1.75,
     "posizione": 2,
-    "note": "Ottima, molto equilibrata (6,3% vol) dove l'alcol non risulta invasivo; birrificio reale della corte bavarese.",
+    "note": "Ottima, molto equilibrata (6,3% vol) dove l'alcol non risulta invasivo; fatta dal birrificio reale della corte bavarese.",
     "titoloVideo": "OKTOBERFEST all'Ipertosano. Tutte le BIRRE di Monaco. 🍻",
     "dataVideo": "2026-09-30",
     "linkVideo": "https://youtu.be/6rW-Q5BqMWg?t=618"
@@ -207,7 +207,7 @@
     "linkVideo": "https://youtu.be/6rW-Q5BqMWg?t=813"
   },
   {
-    "nomeBirra": "Erdinger Oktoberfest Stiftungsbrau / Festbier",
+    "nomeBirra": "Erdinger Oktoberfest",
     "prezzo": 1.25,
     "posizione": 6,
     "note": "Giudicata la peggiore dell'assaggio perché eccessivamente dolce e stucchevole al palato (birra di frumento / Weizen).",
@@ -558,7 +558,7 @@
     "linkVideo": "https://youtu.def/FuzY4nZIBw0?t=1005"
   },
   {
-    "nomeBirra": "Blanche de Namur Hop'n Spice / IPA",
+    "nomeBirra": "Blanche de Namur IPA",
     "prezzo": 1.95,
     "posizione": 2,
     "note": "Birra bianca d'ispirazione belga (stile Hoegaarden). Molto aromatica e piacevole al palato ma ritenuta non rappresentativa dello stile IPA nonostante la dicitura sull'etichetta.",
@@ -579,7 +579,7 @@
     "nomeBirra": "Hobgoblin Session IPA",
     "prezzo": 2.11,
     "posizione": 4,
-    "note": "Session IPA da 3.4° alcolici. Risulta fin troppo leggera e un po' priva di corpo e sapore, considerata deludente rispetto al prezzo e a concorrenti di fascia bassa.",
+    "note": "Session IPA da 3.4°. Risulta fin troppo leggera e un po' priva di corpo e sapore, considerata deludente rispetto al prezzo e a concorrenti di fascia bassa.",
     "titoloVideo": "TUTTE le BIRRE IPA del SUPERMERCATO 5",
     "dataVideo": "2026-06-17",
     "linkVideo": "https://youtu.be/FuzY4nZIBw0?t=800"
@@ -630,7 +630,7 @@
     "linkVideo": "https://youtu.be/SGfrwbWWWck?t=530"
   },
   {
-    "nomeBirra": "Namysłów Originalna Receptura",
+    "nomeBirra": "Namysłów Pils",
     "prezzo": "—",
     "posizione": 1,
     "note": "Lager chiara polacca tradizionale (5.8° alc.) in bottiglia verde. Presenta un buon aroma di luppolo, un attacco leggermente dolciastro e un amaro tipico ben bilanciato, molto simile alla Lasko scontentando i giudizi negativi iniziali.",
@@ -639,7 +639,7 @@
     "linkVideo": "https://youtu.be/NZR1V4mLz74?t=299"
   },
   {
-    "nomeBirra": "Warka Jasne Pełne / Limitowana Edycja",
+    "nomeBirra": "Warka Jasne Pełne Edycja Limitowana",
     "prezzo": "—",
     "posizione": 2,
     "note": "Pils polacca (circa 5° alc.) in bottiglia marrone. Risulta un po' strana ed eccessivamente dolciastra al palato con note che ricordano il miele, rendendola meno invitante rispetto alla Namysłów.",
@@ -675,7 +675,7 @@
     "linkVideo": "https://youtu.be/bKAhQLnQrEQ?t=670"
   },
   {
-    "nomeBirra": "Arcana IPA (Birra Amarcord / Lidl)",
+    "nomeBirra": "Arcana IPA",
     "prezzo": 1.99,
     "posizione": 4,
     "note": "Formato da mezzo litro. Sorprendentemente valida per essere una linea da discount; ha un buon profumo luppolato al naso e un amaro bilanciato, anche se la persistenza sfuma rapidamente.",
@@ -687,7 +687,7 @@
     "nomeBirra": "Birra Flea MAMA IPA",
     "prezzo": 2.99,
     "posizione": 5,
-    "note": "IPA artigianale italiana (prodotta con acqua di Gualdo Tadino) dotata di tappo meccanico. Meno profumata e con una nota di retrogusto quasi limonosa che non convince del tutto i recensori.",
+    "note": "IPA artigianale italiana (prodotta con acqua di Gualdo Tadino) dotata di tappo meccanico. Meno profumata e con una nota di retrogusto quasi limonosa che non convince del tutto.",
     "titoloVideo": "TUTTE le BIRRE IPA del SUPERMERCATO 4",
     "dataVideo": "2026-05-20",
     "linkVideo": "https://youtu.be/bKAhQLnQrEQ?t=290"

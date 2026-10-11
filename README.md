@@ -21,7 +21,7 @@ Segnalalo nelle issue e sarò ben contento di aggiungerlo!\
 Oppure scrivi ad armando@scazzumvivendi.com e sarò ben contento di aggiungerlo!\
 Oppure fai una pull request e... aggiungilo tu!
 
-## Sei Marco o Pippo?
+## Sei Pippo o Marco?
 
 No
 
@@ -29,7 +29,7 @@ No
 
 No
 
-## Ma c'è un errore nel nome della birra...
+## Ma c'è un errore nel nome/prezzo della birra...
 
 Allucinazione mia e/o dell'AI.\
 Per sapere come procedere, leggi [qui](#ma-non-c%C3%A8-il-video)
