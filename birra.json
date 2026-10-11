@@ -1209,7 +1209,7 @@
     "nomeBirra": "Locomotive - Vapori di Birra",
     "prezzo": "—",
     "posizione": 3,
-    "note": "Una birra Blanche prodotta con energia geotermica. Piacevole, rinfrescante, speziatina, giudicata molto buona dai recensori.",
+    "note": "Una birra Blanche prodotta con energia geotermica. Piacevole, rinfrescante, speziatina, giudicata molto buona.",
     "titoloVideo": "BIRRE AL VAPORE",
     "dataVideo": "2025-12-17",
     "linkVideo": "https://youtu.be/eNrlkEG48vo?t=351"
@@ -1227,7 +1227,7 @@
     "nomeBirra": "White Tipa - Vapori di Birra",
     "prezzo": "—",
     "posizione": 1,
-    "note": "Una White IPA da 6,5% vol. con malto di frumento e note spiccate di IPA. Clamorosamente buona, indicata come la preferita in assoluto dai recensori per il suo amaro sensazionale e persistente.",
+    "note": "Una White IPA da 6,5% vol. con malto di frumento e note spiccate di IPA. Clamorosamente buona, indicata come la preferita per il suo amaro sensazionale e persistente.",
     "titoloVideo": "BIRRE AL VAPORE",
     "dataVideo": "2025-12-17",
     "linkVideo": "https://youtu.be/eNrlkEG48vo?t=744"
@@ -1245,7 +1245,7 @@
     "nomeBirra": "Terra - Vapori di Birra",
     "prezzo": "—",
     "posizione": 6,
-    "note": "Una birra ambrata limpida da 7° vol. prodotta con miele di castagno bio. Presenta una nota amroagnola caratteristica del miele sul retrogusto ed è stata apprezzata in chiusura.",
+    "note": "Una birra ambrata limpida da 7° vol. prodotta con miele di castagno bio. Presenta una nota amarognola caratteristica del miele sul retrogusto ed è stata apprezzata in chiusura.",
     "titoloVideo": "BIRRE AL VAPORE",
     "dataVideo": "2025-12-17",
     "linkVideo": "https://youtu.be/eNrlkEG48vo?t=1105"
@@ -1350,7 +1350,7 @@
     "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=875"
   },
   {
-    "nomeBirra": "Victor Export Lager",
+    "nomeBirra": "Viktor Export Lager",
     "prezzo": 0.69,
     "posizione": 4,
     "note": "Una birra chiara piuttosto leggera e acquosa, definita una chiara sciacquona ma comunque bevibile e senza difetti gravi, adatta per un pasto informale.",
@@ -1368,7 +1368,7 @@
     "linkVideo": "https://youtu.be/dMR8BE6Jr_Q?t=1008"
   },
   {
-    "nomeBirra": "Goudale Saint-Omer Bière Blonde Intense 10%",
+    "nomeBirra": "Saint-Omer Blonde Intense ",
     "prezzo": 1.09,
     "posizione": 6,
     "note": "Birra forte da 10° che risulta piuttosto fastidiosa al palato e sgradevole durante la degustazione.",
@@ -2367,7 +2367,7 @@
     "linkVideo": "https://youtu.be/354kQW__zvk?t=144"
   },
   {
-    "nomeBirra": "Carpazia Pils",
+    "nomeBirra": "Karpackie Pils",
     "prezzo": 0.5,
     "posizione": 1,
     "note": "Lattina da 33cl, Pils chiara di Van Pur. Vincitrice della puntata: fresca, semplice, leggera, eccezionalmente buona e con ottimo rapporto qualità/prezzo.",
@@ -2379,7 +2379,7 @@
     "nomeBirra": "Edelmeister Pils",
     "prezzo": 0.75,
     "posizione": 3,
-    "note": "Pils da 0.5l, 4.5°. Colore chiaro, schiuma presente, con una leggera coda acida e limonosa in finale. Discreta ma inferiore alla Carpazia.",
+    "note": "Pils da 0.5l, 4.5°. Colore chiaro, schiuma presente, con una leggera coda acida e limonosa in finale. Discreta ma inferiore alla Karpackie.",
     "titoloVideo": "Beviamo tutte le BIRRE del CARREFOUR",
     "dataVideo": "2024-10-30",
     "linkVideo": "https://youtu.be/354kQW__zvk?t=713"
