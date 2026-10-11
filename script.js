@@ -93,7 +93,7 @@ function createHTMLElementByHeader(header, item) {
     td.textContent = item.note;
   } else if (header === "Data video") {
     td.classList.add("col-2");
-    td.textContent = item.dataVideo;
+    td.textContent = new Date(item.dataVideo).toLocaleDateString();
   } else if (header === "Video") {
     td.classList.add("col-3");
     const a = document.createElement("a");

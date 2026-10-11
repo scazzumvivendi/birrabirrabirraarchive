@@ -8,12 +8,10 @@ Molto basico, fin troppo. ma è veloce e fa quello che deve fare.
 
 ## Perché questo archivio?
 
-Perché stavo bevendo una Umbrian IPA dei Mastri Birrai Umbri e mi sono chiesto: l'hanno mai recensita questa? (no, a meno di improbabili magheggi con le etichette).
-Quindi mi sono armato di Gemini e ho fatto analizzare tutti i video con recensioni di birre a partire dal primo video di birre al supermercato.
+Perché stavo bevendo una Umbrian IPA dei Mastri Birrai Umbri e mi sono chiesto: l'hanno mai recensita questa? (no, a meno di improbabili magheggi con le etichette).\
+Quindi mi sono armato di Gemini e ho fatto analizzare tutti i video con recensioni di birre a partire dal primo video di birre al supermercato.\
 
-## Che schifo, hai usato l'AI!
-
-Mi dispiace.
+Nota specifica per gli haters dell'AI: sto ricontrollando a mano (ma anche io faccio errori).
 
 ## Ma non c'è il video...
 
@@ -23,11 +21,11 @@ Oppure fai una pull request e... aggiungilo tu!
 
 ## Sei Pippo o Marco?
 
-No
+No.
 
 ## Li conosci? Li hai mai visti?
 
-No
+No.
 
 ## Ma c'è un errore nel nome/prezzo della birra...
 
