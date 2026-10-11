@@ -1866,7 +1866,7 @@
     "nomeBirra": "Steam Brew Session IPA",
     "prezzo": 0.95,
     "posizione": 2,
-    "note": "Session IPA da 4,9° della Lidl, molto gradevole, fresca e facile da bere, promossa a pieni voti dai recensori.",
+    "note": "Session IPA da 4,9° della Lidl, molto gradevole, fresca e facile da bere, promossa a pieni voti.",
     "titoloVideo": "Beviamo tutte le STEAMBREW della LIDL",
     "dataVideo": "2025-05-28",
     "linkVideo": "https://youtu.be/LNi54gWaHh8?t=410"
@@ -1875,7 +1875,7 @@
     "nomeBirra": "Steam Brew Wheat Pale Ale",
     "prezzo": 0.95,
     "posizione": 3,
-    "note": "Wheat Pale Ale da 5,6° con sentori di frumento, buona e onesta, ottima alternativa economica.",
+    "note": "Wheat Pale Ale da 5,6° con sentori di frumento, buona e onesta, ottima alternativa.",
     "titoloVideo": "Beviamo tutte le STEAMBREW della LIDL",
     "dataVideo": "2025-05-28",
     "linkVideo": "https://youtu.be/LNi54gWaHh8?t=480"
@@ -1908,7 +1908,7 @@
     "linkVideo": "https://youtu.be/LNi54gWaHh8?t=1220"
   },
   {
-    "nomeBirra": "Barrel Dark (Чернігівське / Obolon / locale ucraina)",
+    "nomeBirra": "Повна Діжка Оксамитове (Povna Dižka Oksamitove)",
     "prezzo": "—",
     "posizione": 1,
     "note": "Birra lager scura filtrata ucraina (circa 4,2°) portata direttamente da Kiev; limpida, gradevole, molto superiore alla Kozel Dark e leggera da bere.",
@@ -1935,7 +1935,7 @@
     "linkVideo": "https://youtu.be/Gdi8A2AFb3U?t=340"
   },
   {
-    "nomeBirra": "Karlsbräu Urpils Herb",
+    "nomeBirra": "Karlsbräu UrPils",
     "prezzo": 0.99,
     "posizione": 4,
     "note": "Pils tedesca dal retrogusto erbaceo un po' deludente e non particolarmente entusiasmante.",
@@ -1980,7 +1980,7 @@
     "linkVideo": "https://youtu.be/mClVLwRdgr8?t=400"
   },
   {
-    "nomeBirra": "Franziskaner Hefe-Weissbier",
+    "nomeBirra": "Franziskaner Weissbier",
     "prezzo": 1.5,
     "posizione": 4,
     "note": "Classica birra Weizen tedesca di Monaco, profumata e rappresentativa dello stile, considerata un punto di riferimento solido e piacevole.",
@@ -2025,7 +2025,7 @@
     "linkVideo": "https://youtu.be/rWo72xrRH9Y?t=25"
   },
   {
-    "nomeBirra": "Olle Brau Lager",
+    "nomeBirra": "Hollebräu Lager",
     "prezzo": 0.67,
     "posizione": 1,
     "note": "Birra lager prodotta in Germania, molto profumata, scorrevole, sgrassa bene con un bellissimo amaro di fondo non fastidioso. Vincitrice della puntata.",
@@ -2034,7 +2034,7 @@
     "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=139"
   },
   {
-    "nomeBirra": "Olle Brau Vais",
+    "nomeBirra": "Hollebräu Hefe-Weissbier",
     "prezzo": 0.69,
     "posizione": 2,
     "note": "Birra weiss prodotta in Germania, colorito tipico, non particolarmente intensa ma beverina e sufficiente per il prezzo proposto.",
@@ -2043,7 +2043,7 @@
     "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=350"
   },
   {
-    "nomeBirra": "Monaster",
+    "nomeBirra": "Monastère",
     "prezzo": 1.19,
     "posizione": 3,
     "note": "Birra d'abbazia fatta in Francia su licenza olandese, premiata ai World Beer Award. Strutturata, qualitativamente ottima e scorrevole.",
@@ -2052,7 +2052,7 @@
     "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=480"
   },
   {
-    "nomeBirra": "Galat Super Strong",
+    "nomeBirra": "Galath Super Strong",
     "prezzo": 1.15,
     "posizione": 4,
     "note": "Birra extra forte da 12° con forte dolcezza di fondo, simile a una Tennent's ma più alcolica e stucchevole; indicata da abbinare a una sigaretta dopo il lavoro.",
@@ -2061,7 +2061,7 @@
     "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=1199"
   },
   {
-    "nomeBirra": "Galat Extra Strong",
+    "nomeBirra": "Galath Extra Strong",
     "prezzo": 0.95,
     "posizione": 5,
     "note": "Birra ad alta gradazione (8,5°) prodotta da Van Pur. Leggermente sottotono ma sufficiente per il genere.",
@@ -2070,7 +2070,7 @@
     "linkVideo": "https://youtu.be/OsW8mzDuoJ0?t=1000"
   },
   {
-    "nomeBirra": "O Stout",
+    "nomeBirra": "O'Stout",
     "prezzo": 1.19,
     "posizione": 6,
     "note": "Extra Stout prodotta da Van Pur in Polonia. Delusione della puntata: colore rosso ambrato (simile a una birra rossa) e sapore completamente diverso da una vera Stout.",
@@ -2142,7 +2142,7 @@
     "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=415"
   },
   {
-    "nomeBirra": "Pirat",
+    "nomeBirra": "Piraat",
     "prezzo": 1.66,
     "posizione": 6,
     "note": "Belgian Strong Ale da 10,5° prodotta da Van Steenberge. Gradevole ma con un retrogusto un po' aggressivo che la posiziona un gradino sotto le altre.",
@@ -2172,7 +2172,7 @@
     "nomeBirra": "Gulden Draak Classic",
     "prezzo": 1.66,
     "posizione": 4,
-    "note": "Dark Strong Ale da 10,5° eccellente, profumata e ricca, tra le migliori della degustazione del box belga Lidl.",
+    "note": "Dark Strong Ale da 10,5° eccellente, profumata e ricca.",
     "titoloVideo": "Beviamo le BIRRE BELGHE della LIDL",
     "dataVideo": "2025-01-29",
     "linkVideo": "https://youtu.be/A7hpWZtg-1Q?t=1375"
@@ -2234,7 +2234,7 @@
   {
     "nomeBirra": "Karlskrone Lager",
     "prezzo": 0.59,
-    "posizione": 2,
+    "posizione": 4,
     "note": "Birra lager verde, gradevole e senza difetti fastidiosi, anche se la pils rimane superiore.",
     "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
     "dataVideo": "2024-12-25",
@@ -2243,7 +2243,7 @@
   {
     "nomeBirra": "Karlskrone Weisse",
     "prezzo": 0.69,
-    "posizione": 2,
+    "posizione": 3,
     "note": "Birra di frumento (Weissbier) molto delicata e leggera, leggermente opaca, nel complesso buona e beverina.",
     "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
     "dataVideo": "2024-12-25",
@@ -2252,29 +2252,29 @@
   {
     "nomeBirra": "Alpen",
     "prezzo": 1.09,
-    "posizione": 4,
+    "posizione": 5,
     "note": "Bottiglione da 66cl prodotto da Birra Castello. Gradevole ma costa un po' di più al litro rispetto alle lattine senza offrire un salto di qualità decisivo.",
     "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
     "dataVideo": "2024-12-25",
     "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=720"
   },
   {
-    "nomeBirra": "Karlista",
+    "nomeBirra": "Carista",
     "prezzo": 0.99,
-    "posizione": 5,
+    "posizione": 6,
     "note": "La 'finta Corona' in bottiglia da 33cl. Più costosa delle altre (quasi il triplo al litro), leggermente limonosa con un retrogusto che non convince appieno.",
     "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
     "dataVideo": "2024-12-25",
     "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=905"
   },
   {
-    "nomeBirra": "Karlskrone Strong Beer",
+    "nomeBirra": "Berg König",
     "prezzo": 0.89,
     "posizione": 6,
     "note": "Gradazione alcolica del 7.2%. All'inizio non fastidiosa per essere una forte, ma diventa pesante e stucchevole al secondo sorso.",
     "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
     "dataVideo": "2024-12-25",
-    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=1060"
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=1192"
   },
   {
     "nomeBirra": "Karlskrone Radler",
@@ -2283,10 +2283,10 @@
     "note": "Radler limpidissima con un profilo di limonata leggero. Forse con poco sapore di limone rispetto alle migliori sul mercato, ma completamente priva di parti sgradevoli.",
     "titoloVideo": "Beviamo tutte le BIRRE dell'ALDI",
     "dataVideo": "2024-12-25",
-    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=1180"
+    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=1346"
   },
   {
-    "nomeBirra": "Hotwald",
+    "nomeBirra": "Otwald",
     "prezzo": 0.89,
     "posizione": 4,
     "note": "Bottiglia di plastica da 66cl con tappo di plastica. Odore simile a Heineken/birra verde, non è male e sparisce senza lasciare retrogusto sgradevole.",
@@ -2295,13 +2295,13 @@
     "linkVideo": "https://youtu.be/8rRjhro4iEM?t=138"
   },
   {
-    "nomeBirra": "Offerbräu",
+    "nomeBirra": "Hofferbräu",
     "prezzo": 0.49,
     "posizione": 3,
     "note": "Lattina da 33cl economica, migliore rispetto ad altre entry level (come Bestbräu, Fink e Karlskrone), buonissima e beverina senza difetti fastidiosi.",
     "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
     "dataVideo": "2024-11-27",
-    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=435"
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=288"
   },
   {
     "nomeBirra": "Viktor Pils",
@@ -2310,16 +2310,16 @@
     "note": "Birra da 50cl molto economica ma talmente priva di sapore da sembrare acqua gassata con la schiuma. Non fastidiosa ma estremamente scarica.",
     "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
     "dataVideo": "2024-11-27",
-    "linkVideo": "https://youtu.be/6-wLFhkeMF4?t=815"
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=502"
   },
   {
-    "nomeBirra": "Carinzia Export",
+    "nomeBirra": "Carintia Export",
     "prezzo": 0.65,
     "posizione": 8,
     "note": "Bocciata. Giudicata imbevibile, con un odore sgradevole e sapore pessimo. Decisamente in fondo alla classifica.",
     "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
     "dataVideo": "2024-11-27",
-    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1100"
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=693"
   },
   {
     "nomeBirra": "Oranjeboom",
@@ -2328,16 +2328,16 @@
     "note": "Birra olandese da Rotterdam. Ottima sorpresa, sapore molto gradevole e soddisfacente. Vincitrice della puntata a pari merito.",
     "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
     "dataVideo": "2024-11-27",
-    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1510"
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=904"
   },
   {
     "nomeBirra": "Zlatá Praha",
     "prezzo": 0.89,
     "posizione": 2,
-    "note": "Birra di Praga (Seské Pivo). Caratterizzata da un amaro marcato e tagliente, molto particolare e apprezzata.",
+    "note": "Caratterizzata da un amaro marcato e tagliente, molto particolare e apprezzata.",
     "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
     "dataVideo": "2024-11-27",
-    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1750"
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1149"
   },
   {
     "nomeBirra": "Kenner Premium Beer",
@@ -2346,16 +2346,16 @@
     "note": "Grafica e colori che ricordano una Weiss, ma in realtà è una lager chiara onesta che fa il suo dovere senza infamia e senza lode.",
     "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
     "dataVideo": "2024-11-27",
-    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=2050"
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1279"
   },
   {
-    "nomeBirra": "Pils Strong",
+    "nomeBirra": "Pals Strong",
     "prezzo": 0.95,
     "posizione": 7,
     "note": "Gradazione alcolica 8.5%. Attacco passabile ma finale disastroso e pesante, sconsigliata.",
     "titoloVideo": "Beviamo TUTTE le BIRRE dell'MD",
     "dataVideo": "2024-11-27",
-    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=2450"
+    "linkVideo": "https://youtu.be/8rRjhro4iEM?t=1546"
   },
   {
     "nomeBirra": "Barley Classic Lager",
@@ -2385,7 +2385,7 @@
     "linkVideo": "https://youtu.be/354kQW__zvk?t=713"
   },
   {
-    "nomeBirra": "CSBG Lager",
+    "nomeBirra": "Saer Brau Kalinsbourg",
     "prezzo": "—",
     "posizione": 2,
     "note": "Lager chiara, sapore pulito e gradevole, preferita a Edelmeister nei giudizi personali dei recensori.",
@@ -2442,7 +2442,7 @@
     "nomeBirra": "Perlenbacher Weissbier",
     "prezzo": 0.69,
     "posizione": 4,
-    "note": "Birra di tipo weiss (Cloudy Weiss Beer). Odore neutro, leggero sapore acidulo simile al limone, sufficiente e bevibile ma non entusiasmante.",
+    "note": "Birra di tipo weiss. Odore neutro, leggero sapore acidulo simile al limone, sufficiente e bevibile ma non entusiasmante.",
     "titoloVideo": "Beviamo tutte le BIRRE della LIDL",
     "dataVideo": "2024-10-02",
     "linkVideo": "https://youtu.be/ddvXX99njb0?t=541"
@@ -2475,7 +2475,7 @@
     "linkVideo": "https://youtu.be/ddvXX99njb0?t=1175"
   },
   {
-    "nomeBirra": "Cralle Bräu",
+    "nomeBirra": "Kralle Bräu",
     "prezzo": 0.49,
     "posizione": 4,
     "note": "Lattina da 33cl a 4.8°, prodotta da Van Pur. Birra economica, scende come l'acqua e non ha grande sapore, ma è onesta per il prezzo.",
@@ -2551,7 +2551,7 @@
     "nomeBirra": "8.6 Extreme",
     "prezzo": 1.55,
     "posizione": 2,
-    "note": "Birra speciale ad alta gradazione (10,5°) prodotta da Swinkels Family Brewers. Caratterizzata da note più dolci rispetto alla Fax e un corpo deciso, giudicata complessivamente sufficiente e gradevole per serate casalinghe.",
+    "note": "Birra speciale ad alta gradazione (10,5°) prodotta da Swinkels Family Brewers. Caratterizzata da note più dolci rispetto alla Faxe e un corpo deciso, giudicata complessivamente sufficiente e gradevole per serate casalinghe.",
     "titoloVideo": "Le BIRRE più FORTI del SUPERMERCATO",
     "dataVideo": "2024-03-27",
     "linkVideo": "https://youtu.be/f_0_TVsNX_A?t=479",
@@ -2612,7 +2612,7 @@
     "linkVideo": "https://youtu.be/HhxjK6VjZq4?t=522"
   },
   {
-    "nomeBirra": "Thuringer",
+    "nomeBirra": "Thuringen",
     "prezzo": 0.58,
     "posizione": 1,
     "note": "Lager economica in lattina da 0,5 litri a 58 centesimi, giudicata appena sufficiente (voto 5 e mezzo). Sapore semplice con un amaro finale leggermente fastidioso, ma complessivamente accettabile e bevibile.",
@@ -2657,7 +2657,7 @@
     "linkVideo": "https://youtu.be/aqPv7HfoMEQ?t=134"
   },
   {
-    "nomeBirra": "Patronus German Weissbier",
+    "nomeBirra": "Patronus Weissbier",
     "prezzo": 0.99,
     "posizione": 2,
     "note": "Birra di frumento in bottiglia da 0,5 litri venduta da Lidl a 0,99€. Stile classico bavarese, aromi simili a una Franziskaner ma con corpo leggermente inferiore e coda più acquosa, comunque onesta e bevibile.",
@@ -2687,18 +2687,18 @@
     "nomeBirra": "Krombacher Pils",
     "prezzo": 0.73,
     "posizione": 1,
-    "note": "Birra pils tedesca economica e gradevole recensita nel video.",
+    "note": "Lattina da 33 cl (4°). Un capello troppo gassata per via dell'anidride carbonica, ma molto onesta, leggera, va giù facilmente ed è un ottimo acquisto economico.",
     "titoloVideo": "Che Birra bevo con €1 - Birre da Supermercato pt.1",
     "dataVideo": "2023-02-24",
-    "linkVideo": "https://youtu.be/1J1jJ2i_U6g"
+    "linkVideo": "https://youtu.be/1J1jJ2i_U6g?t=130"
   },
   {
     "nomeBirra": "DAB Keller",
     "prezzo": 1.69,
     "posizione": 2,
-    "note": "Birra keller tedesca recensita nel video.",
+    "note": "Bottiglia da 50 cl (5,6°). Birra cruda non filtrata tedesca. Schiuma persistente, sapore più corposo e strutturato che permane in bocca rispetto alla precedente.",
     "titoloVideo": "Che Birra bevo con €1 - Birre da Supermercato pt.1",
     "dataVideo": "2023-02-24",
-    "linkVideo": "https://youtu.be/1J1jJ2i_U6g"
+    "linkVideo": "https://youtu.be/1J1jJ2i_U6g?t=334"
   }
 ]

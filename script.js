@@ -113,7 +113,9 @@ function searchBirra() {
     .value.toLowerCase();
 
   const filteredBirre = allBirre.filter(
-    (birra) => birra.nomeBirra.toLowerCase().indexOf(searchValue) > -1,
+    (birra) =>
+      birra.nomeBirra.toLowerCase().indexOf(searchValue) > -1 ||
+      birra.note.toLowerCase().indexOf(searchValue) > -1,
   );
 
   addTable(filteredBirre);
