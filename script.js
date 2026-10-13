@@ -115,7 +115,7 @@ function searchBirra() {
   const filteredBirre = allBirre.filter(
     (birra) =>
       birra.nomeBirra.toLowerCase().indexOf(searchValue) > -1 ||
-      birra.nomeVideo.toLowerCase().indexOf(searchValue) > -1 ||
+      birra.titoloVideo.toLowerCase().indexOf(searchValue) > -1 ||
       birra.note.toLowerCase().indexOf(searchValue) > -1,
   );
 
