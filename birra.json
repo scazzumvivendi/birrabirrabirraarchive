@@ -900,7 +900,7 @@
     "linkVideo": "https://youtu.be/0Xi4QWIi1dg?t=1006"
   },
   {
-    "nomeBirra": "11 Paralleli IPA (Conad)",
+    "nomeBirra": "11 Paralleli IPA",
     "prezzo": 1.75,
     "posizione": 1,
     "note": "IPA leggera e beverina in bottiglia da 33 cl. L'attacco amaro è discreto ma svanisce rapidamente risultando un po' acquosa, pur risultando la meno deludente della puntata. Voto: 6.",
@@ -1198,7 +1198,7 @@
   },
   {
     "nomeBirra": "Germania Pils",
-    "prezzo": "0.50",
+    "prezzo": 0.5,
     "posizione": 1,
     "note": "Una pils tedesca chiara, molto gassata, con un buon profilo e ottima bevibilità. Giudicata la migliore della puntata e inserita tra le top birre dei discount.",
     "titoloVideo": "Beviamo le BIRRE dei FAMILA",
@@ -1207,7 +1207,7 @@
   },
   {
     "nomeBirra": "Golden Brown Premium",
-    "prezzo": "1.48",
+    "prezzo": 1.48,
     "posizione": 6,
     "note": "Una strong beer austriaca da 7,9% vol. Giudicata estremamente sgassata, con un brutto finale e deludente in rapporto al prezzo più elevato.",
     "titoloVideo": "Beviamo le BIRRE dei FAMILA",
@@ -1225,7 +1225,7 @@
   },
   {
     "nomeBirra": "Baum Red Lager",
-    "prezzo": "0.99",
+    "prezzo": 0.99,
     "posizione": 4,
     "note": "Birra rossa da 5,9% vol., leggermente torbida. Giudicata abbastanza neutra e priva di particolari difetti ma anche piuttosto inutile.",
     "titoloVideo": "Beviamo le BIRRE dei FAMILA",
@@ -1234,7 +1234,7 @@
   },
   {
     "nomeBirra": "Baum Strong Superior",
-    "prezzo": "1.00",
+    "prezzo": 1.0,
     "posizione": 5,
     "note": "Strong beer da 7,9% vol. Giudicata un'altra birra insignificante ma non rientrante nel calderone delle strong orribili.",
     "titoloVideo": "Beviamo le BIRRE dei FAMILA",
@@ -1243,7 +1243,7 @@
   },
   {
     "nomeBirra": "Martens Belgian Strong Beer",
-    "prezzo": "1.39",
+    "prezzo": 1.39,
     "posizione": 7,
     "note": "Birra forte belga da 10° vol. Giudicata deludente con un finale sgradevole e finita dritta nel secchio.",
     "titoloVideo": "Beviamo le BIRRE dei FAMILA",
