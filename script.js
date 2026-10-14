@@ -2,7 +2,7 @@ allBirre = null;
 
 async function loadBirraToTable() {
   sessionStorage.removeItem("sort");
-  const response = await fetch("birra.json");
+  const response = await fetch("birra.json?v=" + new Date().getTime());
   const data = await response.json();
   allBirre = data;
   addTable(data);
