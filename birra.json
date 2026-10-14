@@ -2709,7 +2709,8 @@
     "titoloVideo": "La BIRRA del fiume di perla. #birra #birracinese #tsingtao #birrabirrabirra",
     "dataVideo": "2026-06-20",
     "linkVideo": "https://youtu.be/S_Kx3WlPUfY?t=33"
-  }, {
+  },
+  {
     "nomeBirra": "Coschützer",
     "prezzo": 0.59,
     "posizione": 1,
@@ -2717,7 +2718,8 @@
     "titoloVideo": "La BIRRA più ECONOMICA dell'Esselunga #birra #birrabirrabirra #supermercato",
     "dataVideo": "2026-09-02",
     "linkVideo": "https://www.youtube.com/shorts/M-cCjQOCx3Y"
-  }, {
+  },
+  {
     "nomeBirra": "IPA Du Demon",
     "prezzo": "—",
     "posizione": 1,
@@ -2725,5 +2727,41 @@
     "titoloVideo": "La IPA Du Demon. 😱 #birra #beer #birrabirrabirra #dudemon",
     "dataVideo": "2026-07-29",
     "linkVideo": "https://www.youtube.com/shorts/-_VRDKHWuKk"
+  },
+  {
+    "nomeBirra": "Budvar Dark Lager",
+    "prezzo": 1.79,
+    "posizione": 4,
+    "note": "Birra scura descritta come 'sciacquona', con poco corpo e priva della struttura desiderata per una birra scura, paragonata negativamente alla Kozel Dark.",
+    "titoloVideo": "Tutte le BIRRE SCURE del SUPERMERCATO 3",
+    "dataVideo": "2026-10-14",
+    "linkVideo": "https://youtu.be/tXojoNuyEkI?t=55"
+  },
+  {
+    "nomeBirra": "Oyster Stout",
+    "prezzo": 2.45,
+    "posizione": 3,
+    "note": "Una stout con note marine e profumo buono, ma a cui manca un po' di corpo e la consistenza masticabile tipica di una stout ideale.",
+    "titoloVideo": "Tutte le BIRRE SCURE del SUPERMERCATO 3",
+    "dataVideo": "2026-10-14",
+    "linkVideo": "https://youtu.be/tXojoNuyEkI?t=319"
+  },
+  {
+    "nomeBirra": "Volfas Engelman Baltic Porter",
+    "prezzo": 1.65,
+    "posizione": 2,
+    "note": "Baltic Porter da 6 gradi, strutturata, saporita e vagamente dolciastra, venduta in un grande lattinone da più di mezzo litro con un ottimo rapporto qualità/prezzo.",
+    "titoloVideo": "Tutte le BIRRE SCURE del SUPERMERCATO 3",
+    "dataVideo": "2026-10-14",
+    "linkVideo": "https://youtu.be/tXojoNuyEkI?t=450"
+  },
+  {
+    "nomeBirra": "Guinness West Indies Porter",
+    "prezzo": 2.3,
+    "posizione": 1,
+    "note": "Birra definita sensazionale e spettacolare, basata su una ricetta del 1800 da 6 gradi. Ricorda la Baltic Porter ma fatta ancora meglio, con un sapore eccezionale e molto soddisfacente.",
+    "titoloVideo": "Tutte le BIRRE SCURE del SUPERMERCATO 3",
+    "dataVideo": "2026-10-14",
+    "linkVideo": "https://youtu.be/tXojoNuyEkI?t=638"
   }
 ]
