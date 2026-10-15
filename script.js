@@ -5,7 +5,6 @@ async function loadBirraToTable() {
   const response = await fetch("birra.json?v=2024-06-15");
   const data = await response.json();
   allBirre = data;
-  addTable(data);
   sortHeader("dataVideo", "desc");
 }
 
@@ -123,7 +122,7 @@ function searchBirra() {
 }
 
 function sortHeader(header, order) {
-  document.getElementById("birraTable").remove();
+  document.getElementById("birraTable")?.remove();
 
   const sortedBirre = allBirre.sort((birra1, birra2) => {
     element1 = birra1[header];
