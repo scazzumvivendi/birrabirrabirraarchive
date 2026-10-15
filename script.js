@@ -130,7 +130,7 @@ function sortHeader(header, order) {
     element2 = birra2[header];
 
     if (element1 == element2) {
-      return birra1.posizione > birra2.posizione;
+      return birra1.posizione < birra2.posizione ? -1 : 1;
     }
 
     if (order == "asc") return element1 < element2 ? -1 : 1;
