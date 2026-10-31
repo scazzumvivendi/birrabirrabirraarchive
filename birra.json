@@ -1576,7 +1576,7 @@
   },
   {
     "nomeBirra": "Schwerter Bräu Hell",
-    "prezzo": "—",
+    "prezzo": 0.45,
     "posizione": 1,
     "note": "Birra chiara semplice, una normale birra da tavola senza particolari difetti, preferita tra le lattine economiche.",
     "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
@@ -1586,16 +1586,16 @@
   {
     "nomeBirra": "Gralsburg Premium Beer",
     "prezzo": 0.59,
-    "posizione": 2,
+    "posizione": 3,
     "note": "Birra lager economica, leggermente meno amara ma un po' acquosa e deludente sul lungo periodo.",
     "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
     "dataVideo": "2025-08-13",
     "linkVideo": "https://youtu.be/rPjUO-9T9LY?t=420"
   },
   {
-    "nomeBirra": "Castello Low Alcol",
+    "nomeBirra": "Castello Low",
     "prezzo": 0.59,
-    "posizione": 3,
+    "posizione": 2,
     "note": "Birra a bassa gradazione (3,5%), con leggero odore di ferro e poco alcolica, ma fa la sua figura come alternativa economica.",
     "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
     "dataVideo": "2025-08-13",
@@ -1604,7 +1604,7 @@
   {
     "nomeBirra": "Zähringer Schwarzbier",
     "prezzo": 0.55,
-    "posizione": 4,
+    "posizione": 5,
     "note": "Birra scura economica (1,10€ al litro); attacco promettente con buone intenzioni, ma finale deludente.",
     "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
     "dataVideo": "2025-08-13",
@@ -1613,7 +1613,7 @@
   {
     "nomeBirra": "Oettinger Schwarzbier",
     "prezzo": 0.7,
-    "posizione": 5,
+    "posizione": 4,
     "note": "Birra scura piuttosto insignificante, sebbene presenti un impercettibile sentore tostato rispetto alla Zähringer.",
     "titoloVideo": "Le BIRRE BRUTTE dell'IPERTOSANO",
     "dataVideo": "2025-08-13",
