@@ -1649,7 +1649,7 @@
   {
     "nomeBirra": "Birra Messina Cristalli di Sale",
     "prezzo": "—",
-    "posizione": 5,
+    "posizione": 9,
     "note": "Acquisita da Heineken nell'88, birra gradevole e sufficiente, migliorata mescolandola per diffondere il sale accumulato sul fondo.",
     "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 2",
     "dataVideo": "2025-07-23",
@@ -1675,8 +1675,8 @@
   },
   {
     "nomeBirra": "Birra del Borgo Lisa",
-    "prezzo": 2.5,
-    "posizione": 3,
+    "prezzo": 1.89,
+    "posizione": 5,
     "note": "IPA etichetta verde, primo storico birrificio artigianale acquisito da una multinazionale (AB InBev); buona ma ha lasciato un leggero senso di delusione rispetto alle aspettative.",
     "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 2",
     "dataVideo": "2025-07-23",
@@ -1694,7 +1694,7 @@
   {
     "nomeBirra": "Peroni",
     "prezzo": "—",
-    "posizione": 5,
+    "posizione": 8,
     "note": "Birra storica italiana dal 1930 (oggi di proprietà del gruppo giapponese Asahi), un grande classico da tavola dal gusto familiare ma inferiore alle altre provate.",
     "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
     "dataVideo": "2025-07-09",
@@ -1703,7 +1703,7 @@
   {
     "nomeBirra": "Forst",
     "prezzo": "—",
-    "posizione": 2,
+    "posizione": 3,
     "note": "Birra altoatesina prodotta dal 1940, di proprietà familiare e indipendente; colore giallo intenso, profumo ottimo e gusto molto gradevole.",
     "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
     "dataVideo": "2025-07-09",
@@ -1712,7 +1712,7 @@
   {
     "nomeBirra": "Menabrea",
     "prezzo": "—",
-    "posizione": 1,
+    "posizione": 6,
     "note": "Birra piemontese diffusa a livello nazionale dagli anni '50 (del gruppo Forst), considerata eccellente e tra le migliori della degustazione.",
     "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
     "dataVideo": "2025-07-09",
@@ -1721,7 +1721,7 @@
   {
     "nomeBirra": "Ichnusa Non Filtrata",
     "prezzo": "—",
-    "posizione": 3,
+    "posizione": 7,
     "note": "Birra sarda degli anni '60 (gruppo Heineken), versione non filtrata con spiccati sentori di lievito, molto buona e apprezzata.",
     "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
     "dataVideo": "2025-07-09",
@@ -1730,7 +1730,7 @@
   {
     "nomeBirra": "Birra Moretti",
     "prezzo": "—",
-    "posizione": 4,
+    "posizione": 10,
     "note": "Birra degli anni '70 (gruppo Heineken), la classica birra da pizzeria ma risultata leggermente inferiore rispetto alle altre concorrenti della degustazione.",
     "titoloVideo": "100 anni di BIRRA ITALIANA - Parte 1",
     "dataVideo": "2025-07-09",
