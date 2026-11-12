@@ -2790,13 +2790,77 @@
     "titoloVideo": "Due BIRRE, un solo NOME. La guerra legale di BUD e BUDVAR",
     "dataVideo": "2026-10-28",
     "linkVideo": "https://youtu.be/j-peQO4WcSY?t=378"
-  }, {
-"nomeBirra": "Spesotti Analcolica",
-"prezzo": 0.49,
-"posizione": 1,
-"note": "Meno peggio di tutte le altre birre analcoliche provate (come Peroni, Poretti, Moretti). È credibile come birra normale, costa poco e lascia un retrogusto non pessimo in bocca, pur avendo una grafica in etichetta criticabile.",
-"titoloVideo": "La BIRRA analcolica Spesotti. #birra #birrabirrabirra #spesotti #coop #birraanalcolica",
-"dataVideo": "2026-11-04",
-"linkVideo": "https://youtu.be/aG9YquNBiMc?t=0"
-}
+  },
+  {
+    "nomeBirra": "Spesotti Analcolica",
+    "prezzo": 0.49,
+    "posizione": 1,
+    "note": "Meno peggio di tutte le altre birre analcoliche provate (come Peroni, Poretti, Moretti). È credibile come birra normale, costa poco e lascia un retrogusto non pessimo in bocca, pur avendo una grafica in etichetta criticabile.",
+    "titoloVideo": "La BIRRA analcolica Spesotti. #birra #birrabirrabirra #spesotti #coop #birraanalcolica",
+    "dataVideo": "2026-11-04",
+    "linkVideo": "https://youtu.be/aG9YquNBiMc?t=0"
+  },
+  {
+    "nomeBirra": "Best Brau",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Lager da discount (Eurospin) trovata in un frigorifero e scaduta da circa 7 anni (ottobre 2019, per circa 10 anni dalla produzione totale). Giudicata pessima, con uno sgradevole e persistente sapore di limatura di ferro.",
+    "titoloVideo": "La BEST BRAU scaduta. #birra #birrabirrabirra #bestbrau #birre da supermercato",
+    "dataVideo": "2026-11-08",
+    "linkVideo": "https://www.youtube.com/shorts/kz7yd1QnO1w?t=100"
+  },
+  {
+    "nomeBirra": "Lvivske Svitle (Львівське Світле)",
+    "prezzo": "—",
+    "posizione": 3,
+    "note": "Birra chiara ucraina, scarica sul finale ma con note di amarezza gradevoli e un retrogusto quasi da whisky.",
+    "titoloVideo": "UKRAINA vs POLONIA. Chi fa la BIRRA migliore?",
+    "dataVideo": "2026-11-11",
+    "linkVideo": "https://youtu.be/tNe8ph6mdUw?t=114"
+  },
+  {
+    "nomeBirra": "Kasztelan Niepasteryzowane",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra polacca non pastorizzata molto equilibrata, beverina e liscia, considerata tra le migliori della sfida.",
+    "titoloVideo": "UKRAINA vs POLONIA. Chi fa la BIRRA migliore?",
+    "dataVideo": "2026-11-11",
+    "linkVideo": "https://youtu.be/tNe8ph6mdUw?t=250"
+  },
+  {
+    "nomeBirra": "Zakarpatske Original (Закарпатське)",
+    "prezzo": "—",
+    "posizione": 5,
+    "note": "Birra chiara ucraina prodotta da Persha Pryvatna Brovarnya, giudicata negativamente dai recensori che non l'hanno apprezzata.",
+    "titoloVideo": "UKRAINA vs POLONIA. Chi fa la BIRRA migliore?",
+    "dataVideo": "2026-11-11",
+    "linkVideo": "https://youtu.be/tNe8ph6mdUw?t=411"
+  },
+  {
+    "nomeBirra": "Tyskie Gronie",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Popolare lager chiara polacca dal 1629, retrogusto deciso e strutturato.",
+    "titoloVideo": "UKRAINA vs POLONIA. Chi fa la BIRRA migliore?",
+    "dataVideo": "2026-11-11",
+    "linkVideo": "https://youtu.be/tNe8ph6mdUw?t=534"
+  },
+  {
+    "nomeBirra": "Mykulynetske Medove (Микулинецьке Медове)",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Birra ucraina aromatizzata al miele prodotta da Mykulynetskyi Brovar, molto apprezzata per l'aroma ben definito e gradevole.",
+    "titoloVideo": "UKRAINA vs POLONIA. Chi fa la BIRRA migliore?",
+    "dataVideo": "2026-11-11",
+    "linkVideo": "https://youtu.be/tNe8ph6mdUw?t=620"
+  },
+  {
+    "nomeBirra": "Knyaz Sangushko Pshenychne (Князь Сангушко Пшеничне)",
+    "prezzo": "—",
+    "posizione": 4,
+    "note": "Birra ucraina di frumento (4,9% vol.) prodotta da Slavutskyi Pyvzavod, leggermente torbida e gradevole ma inferiore a quella al miele.",
+    "titoloVideo": "UKRAINA vs POLONIA. Chi fa la BIRRA migliore?",
+    "dataVideo": "2026-11-11",
+    "linkVideo": "https://youtu.be/tNe8ph6mdUw?t=720"
+  }
 ]
