@@ -2862,5 +2862,113 @@
     "titoloVideo": "UKRAINA vs POLONIA. Chi fa la BIRRA migliore?",
     "dataVideo": "2026-11-11",
     "linkVideo": "https://youtu.be/tNe8ph6mdUw?t=720"
+  },
+  {
+    "nomeBirra": "Ottakringer Citrus",
+    "prezzo": 1.29,
+    "posizione": 1,
+    "note": "Considerata la migliore e più qualitativa del gruppo grazie alla miscela bilanciata di agrumi (limone, arancia, lime e pompelmo), con pompelmo ben percepibile, colore giallo distinto e ottima bevibilità estiva.",
+    "titoloVideo": "Beviamo tutte le BIRRE AL LIMONE",
+    "dataVideo": "2024-05-15",
+    "linkVideo": "https://youtu.be/WsHRGGwpih0?t=821"
+  },
+  {
+    "nomeBirra": "Moretti Limone",
+    "prezzo": 1.03,
+    "posizione": 2,
+    "note": "Piacevole, rinfrescante e dissetante con gradazione bassa (1,3°), ricorda una Lemon soda con un po' di spinta; ha un gusto di limone più marcato rispetto ad altre, dolce e adatto all'estate.",
+    "titoloVideo": "Beviamo tutte le BIRRE AL LIMONE",
+    "dataVideo": "2024-05-15",
+    "linkVideo": "https://youtu.be/WsHRGGwpih0?t=165"
+  },
+  {
+    "nomeBirra": "Bavaria Radler",
+    "prezzo": 1.24,
+    "posizione": 3,
+    "note": "Gradazione intorno ai 2°, meno limone rispetto ad altre ma comunque bevibile e sufficiente, con un leggero accenno che richiama il detersivo per piatti all'inizio ma senza risultare sgradevole.",
+    "titoloVideo": "Beviamo tutte le BIRRE AL LIMONE",
+    "dataVideo": "2024-05-15",
+    "linkVideo": "https://youtu.be/WsHRGGwpih0?t=492"
+  },
+  {
+    "nomeBirra": "Peroni Lemon Chili",
+    "prezzo": 0.73,
+    "posizione": 4,
+    "note": "Gradazione 2° e prezzo molto basso; ha note più vicine alla buccia di limone che arrivano sul fondo della bocca, diversa dalle prime due ma comunque buona e facilmente bevibile.",
+    "titoloVideo": "Beviamo tutte le BIRRE AL LIMONE",
+    "dataVideo": "2024-05-15",
+    "linkVideo": "https://youtu.be/WsHRGGwpih0?t=394"
+  },
+  {
+    "nomeBirra": "Ichnusa Lemon",
+    "prezzo": 0.99,
+    "posizione": 5,
+    "note": "Stessa gradazione (1,3°) della Moretti ma percepita meno limonosa e meno saporita, con meno retrogusto e facile da bere; giudicata comunque sufficiente e simile alla Moretti.",
+    "titoloVideo": "Beviamo tutte le BIRRE AL LIMONE",
+    "dataVideo": "2024-05-15",
+    "linkVideo": "https://youtu.be/WsHRGGwpih0?t=328"
+  },
+  {
+    "nomeBirra": "Perlenbacher Radler",
+    "prezzo": 0.69,
+    "posizione": 6,
+    "note": "La più economica ma bocciata su tutta la linea (2,5°): odore e sapore descritti come detersivo per piatti (Nelsen/Sole), gusto evanescente e sgradevole, considerata la peggiore e da non comprare.",
+    "titoloVideo": "Beviamo tutte le BIRRE AL LIMONE",
+    "dataVideo": "2024-05-15",
+    "linkVideo": "https://youtu.be/WsHRGGwpih0?t=628"
+  },
+  {
+    "nomeBirra": "Doppio Malto IPA",
+    "prezzo": 1.49,
+    "posizione": 1,
+    "note": "Vincitrice della puntata e la meno costosa del lotto: bel colore miele di castagno, amarezza intensa, aggressiva e decisa fin dall'attacco sul palato, premiata per carattere e ottimo rapporto qualità/prezzo.",
+    "titoloVideo": "Tutte le BIRRE IPA del SUPERMERCATO 6",
+    "dataVideo": "2026-11-18",
+    "linkVideo": "https://youtu.be/DLEjA-HWvgE?t=74"
+  },
+  {
+    "nomeBirra": "Sierra Nevada",
+    "prezzo": 2.69,
+    "posizione": 2,
+    "note": "Più vicina a una pale ale che a una IPA classica, con bel colore dorato; attacco più morbido rispetto alla Doppio Malto ma con amaro ben presente nel retrogusto, ritenuta equilibrata e da comprare.",
+    "titoloVideo": "Tutte le BIRRE IPA del SUPERMERCATO 6",
+    "dataVideo": "2026-11-18",
+    "linkVideo": "https://youtu.be/DLEjA-HWvgE?t=398"
+  },
+  {
+    "nomeBirra": "Baladin Nazionale IPA",
+    "prezzo": 3.29,
+    "posizione": 3,
+    "note": "Birra strutturata e complessa ma dal prezzo elevato; ingresso dolce e avvolgente che si discosta dall'idea classica di IPA aggressiva, con un amaro leggero ed etereo che arriva solo dopo diversi secondi.",
+    "titoloVideo": "Tutte le BIRRE IPA del SUPERMERCATO 6",
+    "dataVideo": "2026-11-18",
+    "linkVideo": "https://youtu.be/DLEjA-HWvgE?t=694"
+  },
+  {
+    "nomeBirra": "Riserva Aurea IPA",
+    "prezzo": 3.25,
+    "posizione": 4,
+    "note": "Formato da mezzo litro con prezzo sostenuto; ritenuta carente di spinta sull'amaro rispetto ad altre IPA più decise, ma comunque discreta e godibile.",
+    "titoloVideo": "Tutte le BIRRE IPA del SUPERMERCATO 6",
+    "dataVideo": "2026-11-18",
+    "linkVideo": "https://youtu.be/DLEjA-HWvgE?t=564"
+  },
+  {
+    "nomeBirra": "Kaiserdom Bavarian IPA",
+    "prezzo": "—",
+    "posizione": 5,
+    "note": "Colore pallido e amarezza molto evanescente, più simile a una session o a una chiara industriale tedesca che a una vera IPA; non considerata imbevibile, ma poco incisiva nello stile.",
+    "titoloVideo": "Tutte le BIRRE IPA del SUPERMERCATO 6",
+    "dataVideo": "2026-11-18",
+    "linkVideo": "https://youtu.be/DLEjA-HWvgE?t=282"
+  },
+  {
+    "nomeBirra": "ВЕПР ЛЮТИЙ МЕДОВА ВИШНЯ (Vepr Lyutyy Medova Vyshnya)",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Gradazione elevata (8°) e sapore molto dolce e sciroppato, percepita più come una bevanda aromatizzata che come una birra tradizionale; fortemente criticata per l'eccesso di dolcezza, sebbene vista come un guilty pleasure da chi ama i sapori dolci.",
+    "titoloVideo": "BIRRA ukraina (non buona) alla ciliegia #birra #birrabirrabirra #ukraina #ciliegia",
+    "dataVideo": "2026-11-15",
+    "linkVideo": "https://youtu.be/Dn2VQL4W34k?t=0"
   }
 ]
