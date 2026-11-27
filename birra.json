@@ -2970,5 +2970,23 @@
     "titoloVideo": "BIRRA ukraina (non buona) alla ciliegia #birra #birrabirrabirra #ukraina #ciliegia",
     "dataVideo": "2026-11-15",
     "linkVideo": "https://youtu.be/Dn2VQL4W34k?t=0"
+  },
+  {
+    "nomeBirra": "Birra Moretti",
+    "prezzo": "—",
+    "posizione": 2,
+    "note": "Classica birra italiana chiara e rinfrescante, con attacco molto amaro ma poca coda e scarsa persistenza, vagamente dolce nel retrogusto e con poco corpo; ritenuta complessivamente inferiore alla Peroni nel confronto del video.",
+    "titoloVideo": "BIRRA da MURATORE - MORETTI vs PERONI",
+    "dataVideo": "2026-11-25",
+    "linkVideo": "https://youtu.be/UNhAtdjwviM?t=367"
+  },
+  {
+    "nomeBirra": "Peroni",
+    "prezzo": "—",
+    "posizione": 1,
+    "note": "Classica birra italiana leggera, rinfrescante e di facile beva; giudicata più equilibrata, meno amara all'ingresso, con un po' più di corpo e complessivamente preferita rispetto alla Moretti dai recensori.",
+    "titoloVideo": "BIRRA da MURATORE - MORETTI vs PERONI",
+    "dataVideo": "2026-11-25",
+    "linkVideo": "https://youtu.be/UNhAtdjwviM?t=442"
   }
 ]
